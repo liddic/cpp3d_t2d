@@ -1,0 +1,991 @@
+Query: ['/cluster/jobs/lidd0026/forslund-t2d-chn/ft2d_2_clean_fastp/SRR341604_R1.good.fastq']
+Database used: 100
+Aligner used: diamond
+""
+Subsystem Level 1	Subsystem Level 2	Subsystem Level 3	Function	/cluster/jobs/lidd0026/forslund-t2d-chn/ft2d_2_clean_fastp/SRR341604_R1.good.fastq	/cluster/jobs/lidd0026/forslund-t2d-chn/ft2d_2_clean_fastp/SRR341604_R1.good.fastq %
+Amino Acids and Derivatives	-	Amino acid racemase	Diaminopimelate_epimerase_(EC_5.1.1.7)	0.25	0.010841283607979185
+Amino Acids and Derivatives	-	Creatine and Creatinine Degradation	Cytosine_deaminase_(EC_3.5.4.1)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alanine biosynthesis	Branched-chain_amino_acid_aminotransferase_(EC_2.6.1.42)	2.0	0.08673026886383348
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine Biosynthesis	L-threonine_3-dehydrogenase_(EC_1.1.1.103)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	D-3-phosphoglycerate_dehydrogenase_(EC_1.1.1.95)	0.2	0.008673026886383347
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	L-serine_dehydratase,_beta_subunit_(EC_4.3.1.17)_/_L-serine_dehydratase,_alpha_subunit_(EC_4.3.1.17)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	L-serine_dehydratase_(EC_4.3.1.17)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Alanine, serine, and glycine	Serine Biosynthesis	D-3-phosphoglycerate_dehydrogenase_(EC_1.1.1.95)	0.5333333333333333	0.02312807169702226
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Acetylornithine_aminotransferase_(EC_2.6.1.11)	1.0	0.04336513443191674
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Acetylornithine_deacetylase_(EC_3.5.1.16)	4	0.17346053772766695
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Argininosuccinate_synthase_(EC_6.3.4.5)	1.0	0.04336513443191674
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Agmatine_deiminase_(EC_3.5.3.12)	1.0	0.04336513443191674
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Arginine_decarboxylase,_catabolic_(EC_4.1.1.19)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	ABC_transporter,_periplasmic_spermidine_putrescine-binding_protein_PotD_(TC_3.A.1.11.1)	1	0.04336513443191674
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Agmatine_deiminase_(EC_3.5.3.12)	1.0	0.04336513443191674
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Arginine_decarboxylase,_catabolic_(EC_4.1.1.19)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Ornithine_decarboxylase_(EC_4.1.1.17)	1.0	0.04336513443191674
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Ornithine_decarboxylase_(EC_4.1.1.17)_#_inducible	1.0	0.04336513443191674
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Putrescine/proton_symporter,_putrescine/ornithine_antiporter_PotE	5	0.21682567215958368
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	S-adenosylmethionine_decarboxylase_proenzyme_(EC_4.1.1.50),_prokaryotic_class_1B	1	0.04336513443191674
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Aromatic amino acid interconversions with aryl acids	Coenzyme_A_ligase	0.5	0.02168256721595837
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Aromatic amino acid interconversions with aryl acids	Phenylacetate-coenzyme_A_ligase_(EC_6.2.1.30);_Coenzyme_F390_synthetase	0.5	0.02168256721595837
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	Shikimate_5-dehydrogenase_I_alpha_(EC_1.1.1.25)_##_AroDI_alpha	0.2	0.008673026886383347
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Cinnamic Acid Degradation	4-hydroxybenzoate_transporter	0.3333333333333333	0.014455044810638912
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Cinnamic Acid Degradation	Probable_3-phenylpropionic_acid_transporter_##_PnuD	1	0.04336513443191674
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	Shikimate_5-dehydrogenase_I_alpha_(EC_1.1.1.25)	0.2	0.008673026886383347
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	Shikimate_5-dehydrogenase_I_alpha_(EC_1.1.1.25)_##_AroDI_alpha	0.2	0.008673026886383347
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Phenylalanine and Tyrosine Branches from Chorismate	Biosynthetic_Aromatic_amino_acid_aminotransferase_alpha_(EC_2.6.1.57)_@_Aspartate_aminotransferase_(EC_2.6.1.1)	0.3333333333333333	0.014455044810638912
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Aminodeoxychorismate_lyase_(EC_4.1.3.38)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	2-isopropylmalate_synthase_(EC_2.3.3.13)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	3-isopropylmalate_dehydratase_large_subunit_(EC_4.2.1.33)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	2-isopropylmalate_synthase_(EC_2.3.3.13)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	3-isopropylmalate_dehydratase_large_subunit_(EC_4.2.1.33)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine synthetases	Glutamine_synthetase,_clostridia_type_(EC_6.3.1.2)	0.25	0.010841283607979185
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Asparagine_synthetase_[glutamine-hydrolyzing]_(EC_6.3.5.4)	2	0.08673026886383348
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Aspartate_aminotransferase_(EC_2.6.1.1)	0.75	0.03252385082393756
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Glutamate_synthase_[NADPH]_small_chain_(EC_1.4.1.13)	7.333333333333334	0.31801098583405607
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Glutamine_synthetase,_clostridia_type_(EC_6.3.1.2)	0.25	0.010841283607979185
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Inner_membrane_protein_YpjD	0.5	0.02168256721595837
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Imidazole_glycerol_phosphate_synthase_cyclase_subunit_(EC_4.1.3.-)	1	0.04336513443191674
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Phosphoribosyl-AMP_cyclohydrolase_(EC_3.5.4.19)_/_Phosphoribosyl-ATP_pyrophosphatase_(EC_3.6.1.31)	1.0	0.04336513443191674
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	CBSS-84588.1.peg.1247	D-alanyl-D-alanine_carboxypeptidase_(EC_3.4.16.4)	0.6000000000000001	0.026019080659150044
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	CBSS-84588.1.peg.1247	Diaminopimelate_epimerase_(EC_5.1.1.7)	0.25	0.010841283607979185
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Sulfate_adenylyltransferase_subunit_2_(EC_2.7.7.4)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Sulfate_permease	0.5	0.02168256721595837
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis, MCB 432	Sulfate_adenylyltransferase_subunit_2_(EC_2.7.7.4)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis, MCB 432	Sulfate_permease	0.5	0.02168256721595837
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	Diaminopimelate_epimerase_(EC_5.1.1.7)	0.25	0.010841283607979185
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	L,L-diaminopimelate_aminotransferase_(EC_2.6.1.83)	1.0	0.04336513443191674
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine degradation	Lysine_decarboxylase,_inducible_(EC_4.1.1.18)	0.3333333333333333	0.014455044810638912
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Adenosylhomocysteinase_(EC_3.3.1.1)	1.0	0.04336513443191674
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Methionine_synthase_activation_domain_(EC_2.1.1.13)	1.5	0.06504770164787511
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	S-ribosylhomocysteine_lyase_(EC_4.4.1.21)_/_Autoinducer-2_production_protein_LuxS	0.4	0.017346053772766695
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	S-ribosylhomocysteine_lyase_(EC_4.4.1.21)_@_Autoinducer-2_production_protein_LuxS	0.4	0.017346053772766695
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	Adenosylhomocysteinase_(EC_3.3.1.1)	1.0	0.04336513443191674
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	Pyruvate-flavodoxin_oxidoreductase_(EC_1.2.7.-)	4.5	0.19514310494362533
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	S-ribosylhomocysteine_lyase_(EC_4.4.1.21)_/_Autoinducer-2_production_protein_LuxS	0.4	0.017346053772766695
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	S-ribosylhomocysteine_lyase_(EC_4.4.1.21)_@_Autoinducer-2_production_protein_LuxS	0.4	0.017346053772766695
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	Pyruvate_formate-lyase_activating_enzyme_(EC_1.97.1.4)	1	0.04336513443191674
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Aspartate_aminotransferase_(EC_2.6.1.1)	0.75	0.03252385082393756
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Threonine_synthase_(EC_4.2.3.1)	2	0.08673026886383348
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine degradation	L-threonine_3-dehydrogenase_(EC_1.1.1.103)	0.5	0.02168256721595837
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine degradation	Threonine_dehydrogenase_and_related_Zn-dependent_dehydrogenases	6	0.26019080659150046
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine degradation	Type_III_PLP_/_low-specificity_D-threonine_aldolase	0.25	0.010841283607979185
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine degradation	low-specificity_D-threonine_aldolase	0.25	0.010841283607979185
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Aspartate_aminotransferase_(EC_2.6.1.1)	0.75	0.03252385082393756
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Dipeptidyl_peptidase_IV_in_4-hydroxyproline_catabolic_gene_cluster	8.5	0.3686036426712923
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Peptidase	0.5	0.02168256721595837
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Phosphocholine_cytidylyltransferase_(EC_2.7.7.15)_/_Aspartate_aminotransferase_(EC_2.6.1.1)	1	0.04336513443191674
+Carbohydrates	-	Lacto-N-Biose I and Galacto-N-Biose Metabolic Pathway	Lacto-N-biose_phosphorylase_(EC_2.4.1.211)	5	0.21682567215958368
+Carbohydrates	-	Sugar utilization in Thermotogales	Cellobiose_phosphorylase_(EC_2.4.1.-)	0.25	0.010841283607979185
+Carbohydrates	-	Sugar utilization in Thermotogales	Cellobiose_phosphorylase_(EC_2.4.1.20)	0.25	0.010841283607979185
+Carbohydrates	-	Unknown carbohydrate utilization ( cluster Ydj )	Aldose_1-epimerase_family_protein_YeaD	1	0.04336513443191674
+Carbohydrates	-	Unknown carbohydrate utilization ( cluster Ydj )	Hypothetical_zinc-type_alcohol_dehydrogenase-like_protein_YdjJ	1.0	0.04336513443191674
+Carbohydrates	-	Unknown carbohydrate utilization ( cluster Ydj )	Putative_transport_protein_YdjK,_MFS_superfamily	2	0.08673026886383348
+Carbohydrates	-	Unknown carbohydrate utilization ( cluster Ydj )	Putative_two-component_response_regulator_and_GGDEF_family_protein_YeaJ	0.35238095238095235	0.01528104737124685
+Carbohydrates	-	Unknown sugar utilization (cluster yphABCDEFG)	Aldose_1-epimerase_family_protein_YphB	2	0.08673026886383348
+Carbohydrates	-	Unknown sugar utilization (cluster yphABCDEFG)	Hypothetical_zinc-type_alcohol_dehydrogenase-like_protein_YphC	1	0.04336513443191674
+Carbohydrates	-	Unknown sugar utilization (cluster yphABCDEFG)	Uncharacterized_protein_YphG,_TPR-domain_containing	6	0.26019080659150046
+Carbohydrates	Aminosugars	Chitin and N-acetylglucosamine utilization	Alpha-N-acetylglucosaminidase_(EC_3.2.1.50)	6	0.26019080659150046
+Carbohydrates	Aminosugars	Chitin and N-acetylglucosamine utilization	Beta-hexosaminidase_(EC_3.2.1.52)	1.4	0.060711188204683436
+Carbohydrates	Aminosugars	Chitin and N-acetylglucosamine utilization	Chitinase_(EC_3.2.1.14)	3	0.13009540329575023
+Carbohydrates	Aminosugars	Chitin and N-acetylglucosamine utilization	N-acetylglucosamine-6P-responsive_transcriptional_repressor_NagC,_ROK_family	1	0.04336513443191674
+Carbohydrates	Aminosugars	Chitin and N-acetylglucosamine utilization	N-acetylglucosamine_related_transporter,_NagX	1	0.04336513443191674
+Carbohydrates	Aminosugars	Chitin and N-acetylglucosamine utilization	Predicted_N-acetyl-glucosamine_kinase_2,_ROK_family_(EC_2.7.1.59)	2	0.08673026886383348
+Carbohydrates	Aminosugars	Chitin and N-acetylglucosamine utilization	beta-glycosyl_hydrolase	0.8666666666666667	0.03758311650766118
+Carbohydrates	Aminosugars	N-Acetyl-Galactosamine and Galactosamine Utilization	Beta-hexosaminidase_(EC_3.2.1.52)	1.65	0.07155247181266261
+Carbohydrates	Aminosugars	N-Acetyl-Galactosamine and Galactosamine Utilization	GALNS_arylsulfatase_regulator_(Fe-S_oxidoreductase)	1	0.04336513443191674
+Carbohydrates	Aminosugars	N-Acetyl-Galactosamine and Galactosamine Utilization	N-acetylgalactosamine-6-sulfatase_(EC_3.1.6.4)	3	0.13009540329575023
+Carbohydrates	Aminosugars	N-Acetyl-Galactosamine and Galactosamine Utilization	beta-glycosyl_hydrolase	1.3166666666666667	0.05709742700202371
+Carbohydrates	Central carbohydrate metabolism	Entner-Doudoroff Pathway	2-dehydro-3-deoxygluconate_kinase_(EC_2.7.1.45)	0.5	0.02168256721595837
+Carbohydrates	Central carbohydrate metabolism	Entner-Doudoroff Pathway	6-phosphogluconolactonase_(EC_3.1.1.31),_eukaryotic_type	4	0.17346053772766695
+Carbohydrates	Central carbohydrate metabolism	Entner-Doudoroff Pathway	Aldose_1-epimerase_(EC_5.1.3.3)	0.6666666666666666	0.028910089621277824
+Carbohydrates	Central carbohydrate metabolism	Entner-Doudoroff Pathway	Glucokinase_(EC_2.7.1.2)	1.5	0.06504770164787511
+Carbohydrates	Central carbohydrate metabolism	Entner-Doudoroff Pathway	Gluconolactonase_(EC_3.1.1.17)	1	0.04336513443191674
+Carbohydrates	Central carbohydrate metabolism	Entner-Doudoroff Pathway	Glucose-6-phosphate_1-dehydrogenase_(EC_1.1.1.49)	0.4	0.017346053772766695
+Carbohydrates	Central carbohydrate metabolism	Entner-Doudoroff Pathway	Mannonate_dehydratase_(EC_4.2.1.8)	3.5	0.1517779705117086
+Carbohydrates	Central carbohydrate metabolism	Entner-Doudoroff Pathway	Uronate_isomerase_(EC_5.3.1.12)	0.5	0.02168256721595837
+Carbohydrates	Central carbohydrate metabolism	Glycolate, glyoxylate interconversions	Phosphoglycolate_phosphatase_(EC_3.1.3.18)	1.0	0.04336513443191674
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Fructose-1,6-bisphosphatase,_Bacillus_type_(EC_3.1.3.11)	2	0.08673026886383348
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Glucokinase_(EC_2.7.1.2)	1.5	0.06504770164787511
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Glucose-6-phosphate_1-dehydrogenase_(EC_1.1.1.49)	0.4	0.017346053772766695
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Glucose-6-phosphate_isomerase_(EC_5.3.1.9)	0.5	0.02168256721595837
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Phosphoenolpyruvate_synthase_(EC_2.7.9.2)	1.5	0.06504770164787511
+Carbohydrates	Central carbohydrate metabolism	Methylglyoxal Metabolism	Lactoylglutathione_lyase_(EC_4.4.1.5)	0.5	0.02168256721595837
+Carbohydrates	Central carbohydrate metabolism	Pentose phosphate pathway	Glucose-6-phosphate_1-dehydrogenase_(EC_1.1.1.49)	0.4	0.017346053772766695
+Carbohydrates	Central carbohydrate metabolism	Pentose phosphate pathway	Xylulose-5-phosphate_phosphoketolase_(EC_4.1.2.9)_@_Fructose-6-phosphate_phosphoketolase_(EC_4.1.2.22)	0.25	0.010841283607979185
+Carbohydrates	Central carbohydrate metabolism	Pyruvate Alanine Serine Interconversions	Branched-chain_amino_acid_aminotransferase_(EC_2.6.1.42)	2.0	0.08673026886383348
+Carbohydrates	Central carbohydrate metabolism	Pyruvate Alanine Serine Interconversions	L-serine_dehydratase,_beta_subunit_(EC_4.3.1.17)_/_L-serine_dehydratase,_alpha_subunit_(EC_4.3.1.17)	0.5	0.02168256721595837
+Carbohydrates	Central carbohydrate metabolism	Pyruvate Alanine Serine Interconversions	L-serine_dehydratase_(EC_4.3.1.17)	0.5	0.02168256721595837
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism I: anaplerotic reactions, PEP	Phosphoenolpyruvate_carboxykinase_[ATP]_(EC_4.1.1.49)	1.5	0.06504770164787511
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism I: anaplerotic reactions, PEP	Phosphoenolpyruvate_synthase_(EC_2.7.9.2)	1.5	0.06504770164787511
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate	Acetyl-CoA_synthetase_(EC_6.2.1.1)	0.25	0.010841283607979185
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate	Acetyl-coenzyme_A_synthetase_(EC_6.2.1.1)	0.25	0.010841283607979185
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate	NAD-dependent_protein_deacetylase_of_SIR2_family	1.5	0.06504770164787511
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate	Xylulose-5-phosphate_phosphoketolase_(EC_4.1.2.9)_@_Fructose-6-phosphate_phosphoketolase_(EC_4.1.2.22)	0.25	0.010841283607979185
+Carbohydrates	Central carbohydrate metabolism	Pyruvate:ferredoxin oxidoreductase	Pyruvate-flavodoxin_oxidoreductase_(EC_1.2.7.-)	4.5	0.19514310494362533
+Carbohydrates	Central carbohydrate metabolism	TCA Cycle	2-oxoglutarate_dehydrogenase_E1_component_(EC_1.2.4.2)	1	0.04336513443191674
+Carbohydrates	Central carbohydrate metabolism	TCA Cycle	2-oxoglutarate_oxidoreductase,_beta_subunit_(EC_1.2.7.3)	3.0	0.13009540329575023
+Carbohydrates	Central carbohydrate metabolism	TCA Cycle	Aconitate_hydratase_(EC_4.2.1.3)	0.25	0.010841283607979185
+Carbohydrates	Central carbohydrate metabolism	TCA Cycle	Succinate_dehydrogenase_iron-sulfur_protein_(EC_1.3.99.1)	0.1111111111111111	0.004818348270212971
+Carbohydrates	Central carbohydrate metabolism	acinetobacter tca	2-oxoglutarate_oxidoreductase,_beta_subunit_(EC_1.2.7.3)	3.0	0.13009540329575023
+Carbohydrates	Central carbohydrate metabolism	acinetobacter tca	Aconitate_hydratase_(EC_4.2.1.3)	0.25	0.010841283607979185
+Carbohydrates	Central carbohydrate metabolism	acinetobacter tca	Succinate_dehydrogenase_iron-sulfur_protein_(EC_1.3.99.1)	0.1111111111111111	0.004818348270212971
+Carbohydrates	Di- and oligosaccharides	2-O-alpha-mannosyl-D-glycerate utilization	Alpha-mannosidase_(EC_3.2.1.24)	0.3333333333333333	0.014455044810638912
+Carbohydrates	Di- and oligosaccharides	Beta-Glucoside Metabolism	6-phospho-beta-glucosidase_(EC_3.2.1.86)	4.416666666666666	0.19152934374096559
+Carbohydrates	Di- and oligosaccharides	Beta-Glucoside Metabolism	Beta-glucosidase_(EC_3.2.1.21)	2.9166666666666665	0.12648164209309049
+Carbohydrates	Di- and oligosaccharides	Beta-Glucoside Metabolism	Cellobiose_phosphorylase_(EC_2.4.1.-)	0.25	0.010841283607979185
+Carbohydrates	Di- and oligosaccharides	Beta-Glucoside Metabolism	Cellobiose_phosphorylase_(EC_2.4.1.20)	0.25	0.010841283607979185
+Carbohydrates	Di- and oligosaccharides	Beta-Glucoside Metabolism	PTS_system,_cellobiose-specific_IIC_component_(EC_2.7.1.69)	5	0.21682567215958368
+Carbohydrates	Di- and oligosaccharides	Fructooligosaccharides(FOS) and Raffinose Utilization	6-phospho-beta-glucosidase_(EC_3.2.1.86)	0.75	0.03252385082393756
+Carbohydrates	Di- and oligosaccharides	Fructooligosaccharides(FOS) and Raffinose Utilization	Alpha-mannosidase_(EC_3.2.1.24)	0.3333333333333333	0.014455044810638912
+Carbohydrates	Di- and oligosaccharides	Fructooligosaccharides(FOS) and Raffinose Utilization	Beta-glucosidase_(EC_3.2.1.21)	1.9166666666666665	0.08311650766117373
+Carbohydrates	Di- and oligosaccharides	Fructooligosaccharides(FOS) and Raffinose Utilization	Glucan_1,6-alpha-glucosidase_(EC_3.2.1.70)	3	0.13009540329575023
+Carbohydrates	Di- and oligosaccharides	Fructooligosaccharides(FOS) and Raffinose Utilization	Levanase_(EC_3.2.1.65)	1.0	0.04336513443191674
+Carbohydrates	Di- and oligosaccharides	Fructooligosaccharides(FOS) and Raffinose Utilization	MSM_(multiple_sugar_metabolism)_operon_regulatory_protein	4	0.17346053772766695
+Carbohydrates	Di- and oligosaccharides	Fructooligosaccharides(FOS) and Raffinose Utilization	Multiple_sugar_ABC_transporter,_substrate-binding_protein	2	0.08673026886383348
+Carbohydrates	Di- and oligosaccharides	Fructooligosaccharides(FOS) and Raffinose Utilization	Sucrose-6-phosphate_hydrolase_(EC_3.2.1.B3)	3.5	0.1517779705117086
+Carbohydrates	Di- and oligosaccharides	Lactose and Galactose Uptake and Utilization	Aldose_1-epimerase_(EC_5.1.3.3)	0.6666666666666666	0.028910089621277824
+Carbohydrates	Di- and oligosaccharides	Lactose and Galactose Uptake and Utilization	Beta-galactosidase_(EC_3.2.1.23)	32.19999999999996	1.3963573287077173
+Carbohydrates	Di- and oligosaccharides	Lactose and Galactose Uptake and Utilization	Beta-galactosidase_large_subunit_(EC_3.2.1.23)	2.0	0.08673026886383348
+Carbohydrates	Di- and oligosaccharides	Lactose and Galactose Uptake and Utilization	Beta-galactosidase_small_subunit_(EC_3.2.1.23)	0.5	0.02168256721595837
+Carbohydrates	Di- and oligosaccharides	Lactose and Galactose Uptake and Utilization	Beta-glucosidase_(EC_3.2.1.21)	0.3333333333333333	0.014455044810638912
+Carbohydrates	Di- and oligosaccharides	Lactose and Galactose Uptake and Utilization	Galactose-1-phosphate_uridylyltransferase_(EC_2.7.7.10)	7	0.3035559410234172
+Carbohydrates	Di- and oligosaccharides	Lactose and Galactose Uptake and Utilization	UDP-glucose_4-epimerase_(EC_5.1.3.2)	2	0.08673026886383348
+Carbohydrates	Di- and oligosaccharides	Lactose utilization	Beta-galactosidase_(EC_3.2.1.23)	52.70000000000007	2.2853425845620152
+Carbohydrates	Di- and oligosaccharides	Lactose utilization	Beta-glucosidase_(EC_3.2.1.21)	0.3333333333333333	0.014455044810638912
+Carbohydrates	Di- and oligosaccharides	Lactose utilization	Beta-glucuronidase_(EC:3.2.1.31)	3.2	0.13876843018213356
+Carbohydrates	Di- and oligosaccharides	Lactose utilization	Evolved_beta-D-galactosidase,_alpha_subunit	9	0.39028620988725066
+Carbohydrates	Di- and oligosaccharides	Lactose utilization	Galactoside_O-acetyltransferase_(EC_2.3.1.18)	1	0.04336513443191674
+Carbohydrates	Di- and oligosaccharides	Lactose utilization	N-acetylglucosamine-1-phosphate_uridyltransferase_(EC_2.7.7.23)_/_Glucosamine-1-phosphate_N-acetyltransferase_(EC_2.3.1.157)	2	0.08673026886383348
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	4-alpha-glucanotransferase_(amylomaltase)_(EC_2.4.1.25)	4.0	0.17346053772766695
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Aldose_1-epimerase_(EC_5.1.3.3)	0.6666666666666666	0.028910089621277824
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Alpha-amylase_(EC_3.2.1.1)	1.1666666666666665	0.05059265683723618
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Alpha-glucosidase_(EC_3.2.1.20)	11.0	0.47701647875108416
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Cytoplasmic_alpha-amylase_(EC_3.2.1.1)	1.0	0.04336513443191674
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Glucan_1,6-alpha-glucosidase_(EC_3.2.1.70)	0.5	0.02168256721595837
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Glycogen_phosphorylase_(EC_2.4.1.1)	5.5	0.23850823937554208
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Maltodextrin_glucosidase_(EC_3.2.1.20)	12	0.5203816131830009
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Maltose-6'-phosphate_glucosidase_(EC_3.2.1.122)	1.0	0.04336513443191674
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Maltose/maltodextrin_ABC_transporter,_permease_protein_MalG	1	0.04336513443191674
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Maltose_O-acetyltransferase_(EC_2.3.1.79)	1	0.04336513443191674
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Maltose_phosphorylase_(EC_2.4.1.8)	4.666666666666666	0.20237062734894473
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Maltose_phosphorylase_(EC_2.4.1.8)_/_Trehalose_phosphorylase_(EC_2.4.1.64)	6.000000000000001	0.26019080659150046
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Mlc,_transcriptional_repressor_of_MalT_(the_transcriptional_activator_of_maltose_regulon)_and_manXYZ_operon	0.5	0.02168256721595837
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Neopullulanase_(EC_3.2.1.135)	8	0.3469210754553339
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Oligo-1,6-glucosidase_(EC_3.2.1.10)	5.5	0.23850823937554208
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Pullulanase_(EC_3.2.1.41)	1	0.04336513443191674
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	ROK_family_sugar_kinase_or_transcriptional_regulator	0.5	0.02168256721595837
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Sugar_phosphate_isomerases/epimerases_family_protein_YcjR	0.5	0.02168256721595837
+Carbohydrates	Di- and oligosaccharides	Sucrose utilization	Beta-fructosidase_(EC_3.2.1.26)	8	0.3469210754553339
+Carbohydrates	Di- and oligosaccharides	Sucrose utilization	Levanase_(EC_3.2.1.65)	1.0	0.04336513443191674
+Carbohydrates	Di- and oligosaccharides	Sucrose utilization	Sucrose-6-phosphate_hydrolase_(EC_3.2.1.B3)	36.5	1.5828274067649613
+Carbohydrates	Di- and oligosaccharides	Trehalose Biosynthesis	1,4-alpha-glucan_(glycogen)_branching_enzyme,_GH-13-type_(EC_2.4.1.18)	4.5	0.19514310494362533
+Carbohydrates	Di- and oligosaccharides	Trehalose Biosynthesis	Alpha,alpha-trehalose-phosphate_synthase_[UDP-forming]_(EC_2.4.1.15)_/_Trehalose-6-phosphate_phosphatase_(EC_3.1.3.12)	6	0.26019080659150046
+Carbohydrates	Di- and oligosaccharides	Trehalose Biosynthesis	Alpha-amylase_(EC_3.2.1.1)	1.1666666666666665	0.05059265683723618
+Carbohydrates	Di- and oligosaccharides	Trehalose Biosynthesis	Glycogen_debranching_enzyme_(EC_3.2.1.-)	1.0	0.04336513443191674
+Carbohydrates	Di- and oligosaccharides	Trehalose Biosynthesis	Maltose_phosphorylase_(EC_2.4.1.8)	5.166666666666667	0.2240531945649032
+Carbohydrates	Di- and oligosaccharides	Trehalose Biosynthesis	Maltose_phosphorylase_(EC_2.4.1.8)_/_Trehalose_phosphorylase_(EC_2.4.1.64)	6.500000000000001	0.28187337380745886
+Carbohydrates	Di- and oligosaccharides	Trehalose Uptake and Utilization	Maltose-6'-phosphate_glucosidase_(EC_3.2.1.122)	1.0	0.04336513443191674
+Carbohydrates	Di- and oligosaccharides	Trehalose Uptake and Utilization	Maltose_phosphorylase_(EC_2.4.1.8)	4.666666666666666	0.20237062734894473
+Carbohydrates	Di- and oligosaccharides	Trehalose Uptake and Utilization	Maltose_phosphorylase_(EC_2.4.1.8)_/_Trehalose_phosphorylase_(EC_2.4.1.64)	6.000000000000001	0.26019080659150046
+Carbohydrates	Di- and oligosaccharides	Trehalose Uptake and Utilization	Trehalase_(EC_3.2.1.28);_Periplasmic_trehalase_precursor_(EC_3.2.1.28)	0.5	0.02168256721595837
+Carbohydrates	Di- and oligosaccharides	Trehalose Uptake and Utilization	Trehalase_(EC_3.2.1.28)_@_Cytoplasmic_trehalase_(EC_3.2.1.28)	0.5	0.02168256721595837
+Carbohydrates	Di- and oligosaccharides	Trehalose Uptake and Utilization	Trehalose-6-phosphate_hydrolase_(EC_3.2.1.93)	9	0.39028620988725066
+Carbohydrates	Fermentation	Acetoin, butanediol metabolism	Acetoin_dehydrogenase_E1_component_alpha-subunit_(EC_1.2.4.-)_/_Acetoin_dehydrogenase_E1_component_beta-subunit_(EC_1.2.4.-)	2	0.08673026886383348
+Carbohydrates	Fermentation	Acetone Butanol Ethanol Synthesis	Alcohol_dehydrogenase_(EC_1.1.1.1)	0.3333333333333333	0.014455044810638912
+Carbohydrates	Fermentation	Butanol Biosynthesis	Pyruvate_formate-lyase_(EC_2.3.1.54)	0.3333333333333333	0.014455044810638912
+Carbohydrates	Fermentation	Fermentations: Lactate	Alcohol_dehydrogenase_(EC_1.1.1.1)	4.666666666666666	0.20237062734894473
+Carbohydrates	Fermentation	Fermentations: Lactate	Glucose-6-phosphate_1-dehydrogenase_(EC_1.1.1.49)	0.4	0.017346053772766695
+Carbohydrates	Fermentation	Fermentations: Lactate	Xylulose-5-phosphate_phosphoketolase_(EC_4.1.2.9)_@_Fructose-6-phosphate_phosphoketolase_(EC_4.1.2.22)	2.25	0.09757155247181266
+Carbohydrates	Fermentation	Fermentations: Mixed acid	Alcohol_dehydrogenase_(EC_1.1.1.1)	4.333333333333333	0.18791558253830584
+Carbohydrates	Fermentation	Fermentations: Mixed acid	Pyruvate_formate-lyase_(EC_2.3.1.54)	3.333333333333333	0.14455044810638912
+Carbohydrates	Fermentation	Fermentations: Mixed acid	Pyruvate_formate-lyase_activating_enzyme_(EC_1.97.1.4)	11.5	0.4986990459670425
+Carbohydrates	Fermentation	Fermentations: Mixed acid	Sugar/maltose_fermentation_stimulation_protein_homolog	1.0	0.04336513443191674
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Alpha-glucosidase_(EC_3.2.1.20)	10.0	0.43365134431916735
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Alpha-glucuronidase_(EC_3.2.1.139)	0.5	0.02168256721595837
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Endo-1,4-beta-xylanase_A_precursor_(EC_3.2.1.8)	2.5	0.10841283607979184
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Hexuronate_transporter	1	0.04336513443191674
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Mannonate_dehydratase_(EC_4.2.1.8)	3.5	0.1517779705117086
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Polygalacturonase_(EC_3.2.1.15)	18	0.7805724197745013
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Rhamnogalacturonides_degradation_protein_RhiN	5.0	0.21682567215958368
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Uronate_isomerase_(EC_5.3.1.12)	0.5	0.02168256721595837
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Xylan_alpha-1,2-glucuronosidase_(EC_3.2.1.131)	0.5	0.02168256721595837
+Carbohydrates	Monosaccharides	D-Tagatose and Galactitol Utilization	D-tagatose_3-epimerase_(EC_5.3.1.-)	0.5	0.02168256721595837
+Carbohydrates	Monosaccharides	D-Tagatose and Galactitol Utilization	Galactitol-1-phosphate_5-dehydrogenase_(EC_1.1.1.251)	1	0.04336513443191674
+Carbohydrates	Monosaccharides	D-Tagatose and Galactitol Utilization	PTS_system,_galactitol-specific_IIC_component_(EC_2.7.1.69)	1	0.04336513443191674
+Carbohydrates	Monosaccharides	D-galactarate, D-glucarate and D-glycerate catabolism	Glucarate_dehydratase_(EC_4.2.1.40)	2.0	0.08673026886383348
+Carbohydrates	Monosaccharides	D-galactarate, D-glucarate and D-glycerate catabolism - gjo	Glucarate_dehydratase_(EC_4.2.1.40)	1.0	0.04336513443191674
+Carbohydrates	Monosaccharides	D-gluconate and ketogluconates metabolism	2-dehydro-3-deoxygluconate_kinase_(EC_2.7.1.45)	0.5	0.02168256721595837
+Carbohydrates	Monosaccharides	D-gluconate and ketogluconates metabolism	oxidoreductase_of_aldo/keto_reductase_family,_subgroup_1	1	0.04336513443191674
+Carbohydrates	Monosaccharides	Fructose utilization	Phosphoenolpyruvate-protein_phosphotransferase_of_PTS_system_(EC_2.7.3.9)	0.3333333333333333	0.014455044810638912
+Carbohydrates	Monosaccharides	L-Arabinose utilization	Alpha-L-arabinofuranosidase_II_precursor_(EC_3.2.1.55)	1	0.04336513443191674
+Carbohydrates	Monosaccharides	L-Arabinose utilization	Alpha-N-arabinofuranosidase_(EC_3.2.1.55)	6.0	0.26019080659150046
+Carbohydrates	Monosaccharides	L-Arabinose utilization	Alpha-N-arabinofuranosidase_2_(EC_3.2.1.55)	5.0	0.21682567215958368
+Carbohydrates	Monosaccharides	L-Arabinose utilization	Arabinose-proton_symporter	3	0.13009540329575023
+Carbohydrates	Monosaccharides	L-fucose utilization	Alpha-L-fucosidase_(EC_3.2.1.51)	2	0.08673026886383348
+Carbohydrates	Monosaccharides	L-rhamnose utilization	Alfa-L-rhamnosidase_(EC_3.2.1.40)	1	0.04336513443191674
+Carbohydrates	Monosaccharides	L-rhamnose utilization	L-rhamnonate_dehydratase_(EC_4.2.1.90)_#_fragment	0.35238095238095235	0.01528104737124685
+Carbohydrates	Monosaccharides	L-rhamnose utilization	Predicted_rhamnogalacturonan_lyase_in_rhamnose_utilization_cluster	4	0.17346053772766695
+Carbohydrates	Monosaccharides	L-rhamnose utilization	Rhamnogalacturonides_degradation_protein_RhiN	4.0	0.17346053772766695
+Carbohydrates	Monosaccharides	L-rhamnose utilization	alpha-rhamnosidase	3	0.13009540329575023
+Carbohydrates	Monosaccharides	L-rhamnose utilization	rhamnogalacturonan_acetylesterase	2	0.08673026886383348
+Carbohydrates	Monosaccharides	Mannose Metabolism	Alpha-1,2-mannosidase	42	1.8213356461405028
+Carbohydrates	Monosaccharides	Mannose Metabolism	Alpha-mannosidase_(EC_3.2.1.24)	0.3333333333333333	0.014455044810638912
+Carbohydrates	Monosaccharides	Mannose Metabolism	Beta-mannosidase_(EC_3.2.1.25)	17	0.7372072853425846
+Carbohydrates	Monosaccharides	Xylose utilization	Alpha-xylosidase_(EC_3.2.1.-)	5.5	0.23850823937554208
+Carbohydrates	Monosaccharides	Xylose utilization	Beta-xylosidase_(EC_3.2.1.37)	27	1.1708586296617518
+Carbohydrates	Monosaccharides	Xylose utilization	D-xylose_proton-symporter_XylE	1	0.04336513443191674
+Carbohydrates	Monosaccharides	Xylose utilization	Endo-1,4-beta-xylanase_A_precursor_(EC_3.2.1.8)	2.5	0.10841283607979184
+Carbohydrates	Monosaccharides	Xylose utilization	alpha-xylosidase_(EC_3.2.1.177)	5.5	0.23850823937554208
+Carbohydrates	One-carbon Metabolism	Formaldehyde assimilation: Ribulose monophosphate pathway	Glucose-6-phosphate_1-dehydrogenase_(EC_1.1.1.49)	0.4	0.017346053772766695
+Carbohydrates	One-carbon Metabolism	Formaldehyde assimilation: Ribulose monophosphate pathway	Glucose-6-phosphate_isomerase_(EC_5.3.1.9)	0.5	0.02168256721595837
+Carbohydrates	One-carbon Metabolism	Serine-glyoxylate cycle	Aconitate_hydratase_(EC_4.2.1.3)	0.25	0.010841283607979185
+Carbohydrates	One-carbon Metabolism	Serine-glyoxylate cycle	Methylmalonyl-CoA_mutase_(EC_5.4.99.2)	0.5	0.02168256721595837
+Carbohydrates	One-carbon Metabolism	Serine-glyoxylate cycle	Phosphoenolpyruvate_carboxykinase_[ATP]_(EC_4.1.1.49)	1.5	0.06504770164787511
+Carbohydrates	One-carbon Metabolism	Serine-glyoxylate cycle	Succinate_dehydrogenase_iron-sulfur_protein_(EC_1.3.99.1)	0.1111111111111111	0.004818348270212971
+Carbohydrates	One-carbon Metabolism	Serine-glyoxylate cycle	Type_III_PLP_/_low-specificity_D-threonine_aldolase	0.25	0.010841283607979185
+Carbohydrates	One-carbon Metabolism	Serine-glyoxylate cycle	low-specificity_D-threonine_aldolase	0.25	0.010841283607979185
+Carbohydrates	Organic acids	Lactate utilization	Predicted_D-lactate_dehydrogenase,_Fe-S_protein,_FAD/FMN-containing	2	0.08673026886383348
+Carbohydrates	Organic acids	Propionyl-CoA to Succinyl-CoA Module	Methylmalonyl-CoA_mutase_(EC_5.4.99.2)	0.5	0.02168256721595837
+Carbohydrates	Polysaccharides	Alpha-Amylase locus in Streptocococcus	putative_esterase	1	0.04336513443191674
+Carbohydrates	Polysaccharides	Cellulosome	1,4-alpha-glucan_branching_enzyme_(EC_2.4.1.18)	2	0.08673026886383348
+Carbohydrates	Polysaccharides	Cellulosome	Alpha-glucosidase_SusB_(EC_3.2.1.20)	2	0.08673026886383348
+Carbohydrates	Polysaccharides	Cellulosome	SusC,_outer_membrane_protein_involved_in_starch_binding	11	0.47701647875108416
+Carbohydrates	Polysaccharides	Cellulosome	SusD,_outer_membrane_protein	10	0.43365134431916735
+Carbohydrates	Polysaccharides	Glycogen metabolism	1,4-alpha-glucan_(glycogen)_branching_enzyme,_GH-13-type_(EC_2.4.1.18)	3.5	0.1517779705117086
+Carbohydrates	Polysaccharides	Glycogen metabolism	4-alpha-glucanotransferase_(amylomaltase)_(EC_2.4.1.25)	7.0	0.3035559410234172
+Carbohydrates	Polysaccharides	Glycogen metabolism	Alpha-amylase_(EC_3.2.1.1)	1.6666666666666665	0.07227522405319456
+Carbohydrates	Polysaccharides	Glycogen metabolism	Cytoplasmic_alpha-amylase_(EC_3.2.1.1)	2.0	0.08673026886383348
+Carbohydrates	Polysaccharides	Glycogen metabolism	Glucose-1-phosphate_adenylyltransferase_(EC_2.7.7.27)	2	0.08673026886383348
+Carbohydrates	Polysaccharides	Glycogen metabolism	Glycogen_biosynthesis_protein_GlgD,_glucose-1-phosphate_adenylyltransferase_family	1	0.04336513443191674
+Carbohydrates	Polysaccharides	Glycogen metabolism	Glycogen_debranching_enzyme_(EC_3.2.1.-)	2.0	0.08673026886383348
+Carbohydrates	Polysaccharides	Glycogen metabolism	Glycogen_phosphorylase_(EC_2.4.1.1)	5.5	0.23850823937554208
+Carbohydrates	Polysaccharides	Glycogen metabolism	Periplasmic_alpha-amylase_(EC_3.2.1.1)	4	0.17346053772766695
+Carbohydrates	Sugar alcohols	Glycerol and Glycerol-3-phosphate Uptake and Utilization	Glycerol-3-phosphate_ABC_transporter,_periplasmic_glycerol-3-phosphate-binding_protein_(TC_3.A.1.1.3)	2	0.08673026886383348
+Carbohydrates	Sugar alcohols	Glycerol and Glycerol-3-phosphate Uptake and Utilization	Glycerol-3-phosphate_dehydrogenase_(EC_1.1.5.3)	1.0	0.04336513443191674
+Carbohydrates	Sugar alcohols	Glycerol and Glycerol-3-phosphate Uptake and Utilization	Glycerol-3-phosphate_transporter	4	0.17346053772766695
+Carbohydrates	Sugar alcohols	Glycerol and Glycerol-3-phosphate Uptake and Utilization	Glycerol_uptake_facilitator_protein	0.5	0.02168256721595837
+Carbohydrates	Sugar alcohols	Glycerol and Glycerol-3-phosphate Uptake and Utilization	Glycerophosphoryl_diester_phosphodiesterase_(EC_3.1.4.46)	1	0.04336513443191674
+Carbohydrates	Sugar alcohols	Inositol catabolism	Myo-inositol_2-dehydrogenase_(EC_1.1.1.18)	3	0.13009540329575023
+Carbohydrates	Sugar alcohols	Mannitol Utilization	Fructokinase_(EC_2.7.1.4)	2	0.08673026886383348
+Carbohydrates	Sugar alcohols	Mannitol Utilization	Mannitol-1-phosphate_5-dehydrogenase_(EC_1.1.1.17)	2	0.08673026886383348
+Carbohydrates	Sugar alcohols	Mannitol Utilization	Phosphoenolpyruvate-protein_phosphotransferase_of_PTS_system_(EC_2.7.3.9)	0.3333333333333333	0.014455044810638912
+Cell Division and Cell Cycle	-	Bacterial Cytoskeleton	Cell_division_protein_FtsW	2.333333333333333	0.10118531367447237
+Cell Division and Cell Cycle	-	Intracellular septation in Enterobacteria	Membrane_protein_YciC,_linked_to_IspA	1	0.04336513443191674
+Cell Division and Cell Cycle	-	Macromolecular synthesis operon	Carbamoyl-phosphate_synthase_small_chain_(EC_6.3.5.5)	0.5	0.02168256721595837
+Cell Division and Cell Cycle	-	Macromolecular synthesis operon	DNA_primase_(EC_2.7.7.-)	13	0.5637467476149176
+Cell Wall and Capsule	-	Murein Hydrolases	D-alanyl-D-alanine_carboxypeptidase_(EC_3.4.16.4)	0.6000000000000001	0.026019080659150044
+Cell Wall and Capsule	-	Peptidoglycan Biosynthesis	D-alanyl-D-alanine_carboxypeptidase_(EC_3.4.16.4)	0.6000000000000001	0.026019080659150044
+Cell Wall and Capsule	-	Peptidoglycan Biosynthesis	Glutamine_synthetase,_clostridia_type_(EC_6.3.1.2)	0.25	0.010841283607979185
+Cell Wall and Capsule	-	Peptidoglycan Biosynthesis	Penicillin-binding_protein_2_(PBP-2)	0.5	0.02168256721595837
+Cell Wall and Capsule	-	Peptidoglycan Biosynthesis	Phospho-N-acetylmuramoyl-pentapeptide-transferase_(EC_2.7.8.13)	5	0.21682567215958368
+Cell Wall and Capsule	-	Peptidoglycan Biosynthesis	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate_ligase_(EC_6.3.2.13)	1.0	0.04336513443191674
+Cell Wall and Capsule	-	Peptidoglycan Biosynthesis	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate_ligase_(EC_6.3.2.13)_##_MurE	1.0	0.04336513443191674
+Cell Wall and Capsule	-	Peptidoglycan biosynthesis--gjo	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine_ligase_(EC_6.3.2.7)	1.0	0.04336513443191674
+Cell Wall and Capsule	-	Raj MurE	D-alanyl-D-alanine_carboxypeptidase_(EC_3.4.16.4)	0.6000000000000001	0.026019080659150044
+Cell Wall and Capsule	-	Recycling of Peptidoglycan Amino Acids	AmpG_permease	1	0.04336513443191674
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Alginate metabolism	Probable_poly(beta-D-mannuronate)_O-acetylase_(EC_2.3.1.-)	1	0.04336513443191674
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Capsular heptose biosynthesis	D-glycero-D-manno-heptose_1,7-bisphosphate_phosphatase_(EC_3.1.1.-)	0.5	0.02168256721595837
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Capsular heptose biosynthesis	dTDP-4-dehydrorhamnose_3,5-epimerase_(EC_5.1.3.13)	1.0	0.04336513443191674
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Colanic acid biosynthesis	Lipopolysaccharide_biosynthesis_protein_WzxC	2	0.08673026886383348
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Exopolysaccharide Biosynthesis	Glycosyl_transferase,_group_1_family_protein	7	0.3035559410234172
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Exopolysaccharide Biosynthesis	Glycosyl_transferase,_group_2_family_protein	3	0.13009540329575023
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Rhamnose containing glycans	Teichoic_acid_translocation_permease_protein_TagG	1	0.04336513443191674
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Rhamnose containing glycans	dTDP-4-dehydrorhamnose_3,5-epimerase_(EC_5.1.3.13)	1.4999999999999998	0.0650477016478751
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Rhamnose containing glycans	rhamnose-containing_polysacharide_translocation_permease	4	0.17346053772766695
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Sialic Acid Metabolism	N-acetylneuraminic_acid_outer_membrane_channel_protein_NanC	2	0.08673026886383348
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Sialic Acid Metabolism	N-acylglucosamine_2-epimerase_(EC_5.1.3.8)	10	0.43365134431916735
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Sialic Acid Metabolism	Sialic_acid-induced_transmembrane_protein_YjhT(NanM),_possible_mutarotase	1	0.04336513443191674
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Sialic Acid Metabolism	UDP-N-acetyl-L-fucosamine_synthase_(EC_5.1.3.28)	0.5	0.02168256721595837
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Sialic Acid Metabolism	UDP-N-acetylglucosamine_2-epimerase_(EC_5.1.3.14)	0.5	0.02168256721595837
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	YjbEFGH Locus Involved in Exopolysaccharide Production	YjbE_secreted_protein	2	0.08673026886383348
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	dTDP-rhamnose synthesis	dTDP-4-dehydrorhamnose_3,5-epimerase_(EC_5.1.3.13)	1.4999999999999998	0.0650477016478751
+Cell Wall and Capsule	Gram-Negative cell wall components	KDO2-Lipid A biosynthesis	DNA_internalization-related_competence_protein_ComEC/Rec2	0.6666666666666666	0.028910089621277824
+Cell Wall and Capsule	Gram-Negative cell wall components	KDO2-Lipid A biosynthesis	DNA_internalization-related_competence_protein_ComEC/Rec2_#_frameshift	0.6666666666666666	0.028910089621277824
+Cell Wall and Capsule	Gram-Negative cell wall components	KDO2-Lipid A biosynthesis	Lipid_A_biosynthesis_(KDO)_2-(lauroyl)-lipid_IVA_acyltransferase_(EC_2.3.1.-)	0.5	0.02168256721595837
+Cell Wall and Capsule	Gram-Negative cell wall components	KDO2-Lipid A biosynthesis	Lipid_A_biosynthesis_lauroyl_acyltransferase_(EC_2.3.1.-)	17.5	0.7588898525585429
+Cell Wall and Capsule	Gram-Negative cell wall components	KDO2-Lipid A biosynthesis	Lipid_A_biosynthesis_lauroyl_acyltransferase_(EC_2.3.1.241)	17.5	0.7588898525585429
+Cell Wall and Capsule	Gram-Negative cell wall components	KDO2-Lipid A biosynthesis	Lipid_A_biosynthesis_myristoyltransferase_(EC_2.3.1.243)	0.5	0.02168256721595837
+Cell Wall and Capsule	Gram-Negative cell wall components	KDO2-Lipid A biosynthesis	Predicted_hydrolase_of_the_metallo-beta-lactamase_superfamily,_clustered_with_KDO2-Lipid_A_biosynthesis_genes	0.6666666666666666	0.028910089621277824
+Cell Wall and Capsule	Gram-Negative cell wall components	KDO2-Lipid A biosynthesis	UDP-2,3-diacylglucosamine_diphosphatase_(EC_3.6.1.54)	2	0.08673026886383348
+Cell Wall and Capsule	Gram-Negative cell wall components	LOS core oligosaccharide biosynthesis	ADP-heptose--lipooligosaccharide_heptosyltransferase_II_(EC_2.4.1.-)	1	0.04336513443191674
+Cell Wall and Capsule	Gram-Negative cell wall components	LOS core oligosaccharide biosynthesis	D-glycero-D-manno-heptose_1,7-bisphosphate_phosphatase_(EC_3.1.1.-)	0.5	0.02168256721595837
+Cell Wall and Capsule	Gram-Negative cell wall components	LOS core oligosaccharide biosynthesis	Lipopolysaccharide_1,3-galactosyltransferase_(EC_2.4.1.44)	1.0	0.04336513443191674
+Cell Wall and Capsule	Gram-Negative cell wall components	LOS core oligosaccharide biosynthesis	Lipopolysaccharide_heptosyltransferase_III_(EC_2.4.1.-)	1	0.04336513443191674
+Cell Wall and Capsule	Gram-Negative cell wall components	LOS core oligosaccharide biosynthesis	UDP-glucose:(glucosyl)lipopolysaccharide_alpha-1,3-glucosyltransferase_WaaO_(EC_2.4.1.-)	2.0	0.08673026886383348
+Cell Wall and Capsule	Gram-Negative cell wall components	Lipid A modifications	Phosphoethanolamine_transferase_specific_for_the_outer_Kdo_residue_of_lipopolysaccharide	2	0.08673026886383348
+Cell Wall and Capsule	Gram-Negative cell wall components	Lipid A-Ara4N pathway ( Polymyxin resistance )	Polymyxin_resistance_protein_ArnT,_undecaprenyl_phosphate-alpha-L-Ara4N_transferase;_Melittin_resistance_protein_PqaB	5	0.21682567215958368
+Cell Wall and Capsule	Gram-Negative cell wall components	Lipid A-Ara4N pathway ( Polymyxin resistance )	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate_aminotransferase_(EC_2.6.1.-)	2.5	0.10841283607979184
+Cell Wall and Capsule	Gram-Negative cell wall components	Lipid A-Ara4N pathway ( Polymyxin resistance )	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate_aminotransferase_(EC_2.6.1.87)	0.5	0.02168256721595837
+Cell Wall and Capsule	Gram-Negative cell wall components	Lipid A-Ara4N pathway ( Polymyxin resistance )	UDP-4-amino-4-deoxy-L-arabinose_formyltransferase_(EC_2.1.2.13)_/_UDP-glucuronic_acid_oxidase_(UDP-4-keto-hexauronic_acid_decarboxylating)_(EC_1.1.1.305)	1	0.04336513443191674
+Cell Wall and Capsule	Gram-Positive cell wall components	Polyglycerolphosphate lipoteichoic acid biosynthesis	Lipoteichoic_acid_synthase_LtaS_Type_IVb	1	0.04336513443191674
+Cell Wall and Capsule	Gram-Positive cell wall components	Teichoic and lipoteichoic acids biosynthesis	2-C-methyl-D-erythritol_4-phosphate_cytidylyltransferase_(EC_2.7.7.60)	0.25	0.010841283607979185
+Cell Wall and Capsule	Gram-Positive cell wall components	Teichoic and lipoteichoic acids biosynthesis	D-alanyl_transfer_protein_DltB	1	0.04336513443191674
+Cell Wall and Capsule	Gram-Positive cell wall components	Teichoic and lipoteichoic acids biosynthesis	Lipopolysaccharide_cholinephosphotransferase_LicD1_(EC_2.7.8.-)	2	0.08673026886383348
+Cell Wall and Capsule	Gram-Positive cell wall components	Teichoic and lipoteichoic acids biosynthesis	N-acetylmannosaminyltransferase_(EC_2.4.1.187)	3	0.13009540329575023
+Cell Wall and Capsule	Gram-Positive cell wall components	Teichoic and lipoteichoic acids biosynthesis	Undecaprenyl-diphosphatase_(EC_3.6.1.27)	5	0.21682567215958368
+Central metabolism	-	EC 6.4.1.- Ligases that form carbon-carbon bonds	Acetyl-coenzyme_A_carboxyl_transferase_beta_chain_(EC_6.4.1.2)	10	0.43365134431916735
+Clustering-based subsystems	-	Bacterial Cell Division	Cell_division_protein_FtsW	2.333333333333333	0.10118531367447237
+Clustering-based subsystems	-	Bacterial Cell Division	rRNA_small_subunit_methyltransferase_H	0.5	0.02168256721595837
+Clustering-based subsystems	-	CBSS-216592.1.peg.3937	Putative_acid--amine_ligase_YgiC	0.25	0.010841283607979185
+Clustering-based subsystems	-	CBSS-216592.1.peg.3937	Putative_outer_membrane_usher_protein_YqiG	3.5	0.1517779705117086
+Clustering-based subsystems	-	CBSS-216592.1.peg.3937	Similarity_with_glutathionylspermidine_synthase_(EC_6.3.1.8),_group_1	0.25	0.010841283607979185
+Clustering-based subsystems	-	CBSS-216592.1.peg.3937	Uncharacterized_outer_membrane_usher_protein_yqiG_precursor	1.5	0.06504770164787511
+Clustering-based subsystems	-	CBSS-279010.5.peg.3195	Alanyl-tRNA_synthetase_(EC_6.1.1.7)	0.6666666666666666	0.028910089621277824
+Clustering-based subsystems	-	CBSS-281090.3.peg.464	Alanyl-tRNA_synthetase_(EC_6.1.1.7)	3.3333333333333335	0.14455044810638915
+Clustering-based subsystems	-	CBSS-281090.3.peg.464	Shikimate_5-dehydrogenase_I_alpha_(EC_1.1.1.25)	0.2	0.008673026886383347
+Clustering-based subsystems	-	CBSS-281090.3.peg.464	Shikimate_5-dehydrogenase_I_alpha_(EC_1.1.1.25)_##_AroDI_alpha	0.2	0.008673026886383347
+Clustering-based subsystems	-	Putative hemin transporter	Peroxide_stress_regulator_PerR,_FUR_family	1.0	0.04336513443191674
+Clustering-based subsystems	-	RP Bacterial Cell Division	Cell_division_protein_FtsW	2.333333333333333	0.10118531367447237
+Clustering-based subsystems	-	RP Bacterial Cell Division	rRNA_small_subunit_methyltransferase_H	0.5	0.02168256721595837
+Clustering-based subsystems	-	TenI-like tautomerase	Mutator_MutT_protein_(7,8-dihydro-8-oxoguanine-triphosphatase)_(EC_3.6.1.-)	0.3333333333333333	0.014455044810638912
+Clustering-based subsystems	-	TenI-like tautomerase	Protein_translocase_subunit_SecA	1.8333333333333333	0.07950274645851402
+Clustering-based subsystems	-	TenI-like tautomerase	Protein_with_domain_similar_to_SecA	0.3333333333333333	0.014455044810638912
+Clustering-based subsystems	Biosynthesis of galactoglycans and related lipopolysacharides	CBSS-258594.1.peg.3339	Glycosyl_transferase,_group_1	9	0.39028620988725066
+Clustering-based subsystems	Biosynthesis of galactoglycans and related lipopolysacharides	CBSS-258594.1.peg.3339	Glycosyltransferase	16	0.6938421509106678
+Clustering-based subsystems	Biosynthesis of galactoglycans and related lipopolysacharides	CBSS-258594.1.peg.3339	Putative_glycosyltransferase	2	0.08673026886383348
+Clustering-based subsystems	CRISPRs and associated hypotheticals	CBSS-216592.1.peg.3534	CRISPR-associated_helicase_Cas3,_protein	1	0.04336513443191674
+Clustering-based subsystems	Cell Division	Cell Division Cluster	Isoleucyl-tRNA_synthetase_(EC_6.1.1.5)	6.0	0.26019080659150046
+Clustering-based subsystems	Cell Division	Cell Division Subsystem including YidCD	Inner_membrane_protein_translocase_component_YidC,_long_form	2	0.08673026886383348
+Clustering-based subsystems	Cell Division	Cell Division Subsystem including YidCD	Inner_membrane_protein_translocase_component_YidC,_short_form_OxaI-like	0.3333333333333333	0.014455044810638912
+Clustering-based subsystems	Cell Division	Cell Division Subsystem including YidCD	Protein_YidD	0.5	0.02168256721595837
+Clustering-based subsystems	Choline bitartrate degradation, putative	CBSS-344610.3.peg.2335	Putative_dioxygenase,_alpha_subunit_(EC_1.-.-.-);_Choline_monooxygenase,_alpha_subunit_(EC_1.14.15.7)	0.25	0.010841283607979185
+Clustering-based subsystems	Choline bitartrate degradation, putative	CBSS-344610.3.peg.2335	Putative_dioxygenase,_alpha_subunit_YeaW	0.25	0.010841283607979185
+Clustering-based subsystems	Chromosome Replication	SeqA and Co-occurring Genes	Esterase_ybfF_(EC_3.1.-.-)	1	0.04336513443191674
+Clustering-based subsystems	Cytochrome biogenesis	CBSS-196164.1.peg.461	Cytochrome_c-type_biogenesis_protein_CcdA_(DsbD_analog)_/_Cytochrome_c-type_biogenesis_protein_ResA	0.25	0.010841283607979185
+Clustering-based subsystems	DNA polymerase III epsilon cluster	CBSS-342610.3.peg.1536	Ribonuclease_HI_(EC_3.1.26.4)	1.5	0.06504770164787511
+Clustering-based subsystems	Hypothetical protein possible functionally linked with Alanyl-tRNA synthetase	CBSS-257314.1.peg.488	Alanyl-tRNA_synthetase_(EC_6.1.1.7)	4.5	0.19514310494362533
+Clustering-based subsystems	Isoprenoid/cell wall biosynthesis: PREDICTED UNDECAPRENYL DIPHOSPHATE PHOSPHATASE	CBSS-83331.1.peg.3039	Membrane-associated_zinc_metalloprotease	1.0	0.04336513443191674
+Clustering-based subsystems	Isoprenoid/cell wall biosynthesis: PREDICTED UNDECAPRENYL DIPHOSPHATE PHOSPHATASE	CBSS-83331.1.peg.3039	Penicillin-binding_protein_2_(PBP-2)	0.5	0.02168256721595837
+Clustering-based subsystems	Isoprenoid/cell wall biosynthesis: PREDICTED UNDECAPRENYL DIPHOSPHATE PHOSPHATASE	CBSS-83331.1.peg.3039	Undecaprenyl_diphosphate_synthase_(EC_2.5.1.31)	0.45	0.019514310494362534
+Clustering-based subsystems	Protein export?	CBSS-393121.3.peg.2760	NLP/P60_family_protein	8	0.3469210754553339
+Clustering-based subsystems	Protein export?	CBSS-393121.3.peg.2760	Protein_export_cytoplasm_protein_SecA_ATPase_RNA_helicase_(TC_3.A.5.1.1)	1.8333333333333333	0.07950274645851402
+Clustering-based subsystems	Protein export?	CBSS-393121.3.peg.2760	Protein_translocase_subunit_SecA	1.8333333333333333	0.07950274645851402
+Clustering-based subsystems	Protein export?	CBSS-393121.3.peg.2760	Protein_with_domain_similar_to_SecA	0.3333333333333333	0.014455044810638912
+Clustering-based subsystems	Ribosomal Protein L28P relates to a set of uncharacterized proteins	A Gram-positive cluster that relates ribosomal protein L28P to a set of uncharacterized proteins	Ribosome_small_subunit-stimulated_GTPase_EngC	0.5	0.02168256721595837
+Clustering-based subsystems	Shiga toxin cluster	CBSS-194948.1.peg.143	unknown_protein_encoded_within_prophage_CP-933V	0.35238095238095235	0.01528104737124685
+Clustering-based subsystems	Sulfatases and sulfatase modifying factor 1 (and a hypothetical)	Sulfatases and sulfatase modifying factor 1	Choline-sulfatase_(EC_3.1.6.6)	1	0.04336513443191674
+Clustering-based subsystems	TldD cluster	CBSS-354.1.peg.2917	FIG005080:_Possible_exported_protein	0.5	0.02168256721595837
+Clustering-based subsystems	TldD cluster	CBSS-354.1.peg.2917	Uncharacterized_protein_YhdP	0.5	0.02168256721595837
+Clustering-based subsystems	Translation	CBSS-326442.4.peg.1852	DNA-3-methyladenine_glycosylase_(EC_3.2.2.20)	2.5	0.10841283607979184
+Clustering-based subsystems	Urate degradation	CBSS-205922.3.peg.1809	Ureidoglycolate_hydrolase_(EC_3.5.3.19)	0.25	0.010841283607979185
+Clustering-based subsystems	Urate degradation	CBSS-205922.3.peg.1809	Ureidoglycolate_lyase_(EC_4.3.2.3)	0.25	0.010841283607979185
+Clustering-based subsystems	proteosome related	Cluster-based Subsystem Grouping Hypotheticals - perhaps Proteosome Related	Twin-arginine_translocation_protein_TatC	0.5	0.02168256721595837
+Clustering-based subsystems	tRNA sulfuration	CBSS-89187.3.peg.2957	Peptide_deformylase_(EC_3.5.1.88)	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	CLO thiaminPP biosynthesis	1-deoxy-D-xylulose_5-phosphate_synthase_(EC_2.2.1.7)	0.14285714285714285	0.006195019204559535
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	CLO thiaminPP biosynthesis	2-iminoacetate_synthase_(ThiH)_(EC_4.1.99.19)	0.5555555555555556	0.024091741351064858
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	CLO thiaminPP biosynthesis	Thiamin_ABC_transporter,_transmembrane_component	0.25	0.010841283607979185
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Molybdopterin cytosine dinucleotide	Molybdenum_cofactor_guanylyltransferase_(EC_2.7.7.77)_##_MobA	0.25	0.010841283607979185
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Molybdopterin cytosine dinucleotide	Molybdopterin-guanine_dinucleotide_biosynthesis_protein_MobA	0.25	0.010841283607979185
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Molybdopterin cytosine dinucleotide	Xanthine_dehydrogenase_iron-sulfur_subunit_(EC_1.17.1.4)_/_Xanthine_dehydrogenase,_molybdenum_binding_subunit_(EC_1.17.1.4)	0.6666666666666666	0.028910089621277824
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Test - DHFR	5-methyltetrahydrofolate--homocysteine_methyltransferase_(EC_2.1.1.13)	2	0.08673026886383348
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Test - DHFR	Dihydrofolate_reductase_(EC_1.5.1.3)	2.0	0.08673026886383348
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Test - DHFR	Methionine_synthase_activation_domain_(EC_2.1.1.13)	1.5	0.06504770164787511
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Test - DHFR	Thymidylate_synthase_(EC_2.1.1.45)	6.166666666666665	0.26741832899681983
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Test - DHFR	Thymidylate_synthase_thyX_(EC_2.1.1.-)	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Test - Thiamin	1-deoxy-D-xylulose_5-phosphate_synthase_(EC_2.2.1.7)	0.14285714285714285	0.006195019204559535
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Test - Thiamin	2-iminoacetate_synthase_(ThiH)_(EC_4.1.99.19)	0.5555555555555556	0.024091741351064858
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Test - Thiamin	Sulfur_carrier_protein_ThiS_adenylyltransferase_(EC_2.7.7.73)	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Test - Thiamin	Sulfur_carrier_protein_adenylyltransferase_ThiF	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Test - Thiamin	Thiamin_ABC_transporter,_transmembrane_component	0.25	0.010841283607979185
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Test - Thiamin	[FeFe]-hydrogenase_maturation_protein_HydG	0.2222222222222222	0.009636696540425942
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Thiamin Copy RZ	1-deoxy-D-xylulose_5-phosphate_synthase_(EC_2.2.1.7)	0.14285714285714285	0.006195019204559535
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Thiamin Copy RZ	2-iminoacetate_synthase_(ThiH)_(EC_4.1.99.19)	0.5555555555555556	0.024091741351064858
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Thiamin Copy RZ	[FeFe]-hydrogenase_maturation_protein_HydG	0.2222222222222222	0.009636696540425942
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Thiamin biosynthesis	2-iminoacetate_synthase_(ThiH)_(EC_4.1.99.19)	0.5555555555555556	0.024091741351064858
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Thiamin biosynthesis	Thiamin_ABC_transporter,_transmembrane_component	0.25	0.010841283607979185
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Thiamin biosynthesis	[FeFe]-hydrogenase_maturation_protein_HydG	0.2222222222222222	0.009636696540425942
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Thiamin biosynthesis LDP	1-deoxy-D-xylulose_5-phosphate_synthase_(EC_2.2.1.7)	0.14285714285714285	0.006195019204559535
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Thiamin biosynthesis LDP	2-iminoacetate_synthase_(ThiH)_(EC_4.1.99.19)	0.5555555555555556	0.024091741351064858
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Thiamin biosynthesis LDP	Thiamin_ABC_transporter,_transmembrane_component	0.25	0.010841283607979185
+Cofactors, Vitamins, Prosthetic Groups, Pigments	-	Thiamin biosynthesis LDP	[FeFe]-hydrogenase_maturation_protein_HydG	0.2222222222222222	0.009636696540425942
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin biosynthesis	Biotin_synthesis_protein_BioG	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin biosynthesis	Long-chain-fatty-acid--CoA_ligase_(EC_6.2.1.3)	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin biosynthesis	Pimeloyl-CoA_synthase_(EC_6.2.1.14)	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin synthesis & utilization	Adenosylmethionine-8-amino-7-oxononanoate_aminotransferase_(EC_2.6.1.62)	2	0.08673026886383348
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin synthesis & utilization	Biotin--protein_ligase_(EC_6.3.4.9)(EC_6.3.4.10)(EC_6.3.4.11)(EC_6.3.4.15)	1.1666666666666665	0.05059265683723618
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin synthesis & utilization	Biotin_synthesis_protein_BioG	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin synthesis & utilization	Long-chain-fatty-acid--CoA_ligase_(EC_6.2.1.3)	5.5	0.23850823937554208
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin synthesis & utilization	Pimeloyl-CoA_synthase_(EC_6.2.1.14)	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	coA-FolK	2-dehydropantoate_2-reductase_(EC_1.1.1.169)	1.0	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	coA-FolK	Holo-[acyl-carrier_protein]_synthase_(EC_2.7.8.7)	1	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	dcernst CoA Salvage	2-dehydropantoate_2-reductase_(EC_1.1.1.169)	1.0	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Fe-S clusters	Fe-S cluster assembly	DJ-1/YajL/PfpI_superfamily,_includes_chaperone_protein_YajL_(former_ThiJ),_parkinsonism-associated_protein_DJ-1,_peptidases_PfpI,_Hsp31	1	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Fe-S clusters	Fe-S cluster assembly	Iron-sulfur_cluster_assembly_protein_SufB	0.3333333333333333	0.014455044810638912
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	Alcohol_dehydrogenase_(EC_1.1.1.1)	0.3333333333333333	0.014455044810638912
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	Succinate_dehydrogenase_iron-sulfur_protein_(EC_1.3.99.1)	2.111111111111111	0.09154861713404644
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	Aminodeoxychorismate_lyase_(EC_4.1.3.38)	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	Dihydrofolate_reductase_(EC_1.5.1.3)	2.0	0.08673026886383348
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	Thymidine_kinase_(EC_2.7.1.21)	1.0	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	Thymidylate_synthase_(EC_2.1.1.45)	2.1666666666666665	0.09395779126915292
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	Thymidylate_synthase_thyX_(EC_2.1.1.-)	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Molybdenum cofactor biosynthesis	Molybdenum_cofactor_guanylyltransferase_(EC_2.7.7.77)_##_MobA	0.25	0.010841283607979185
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Molybdenum cofactor biosynthesis	Molybdenum_transport_ATP-binding_protein_ModC_(TC_3.A.1.8.1)	1	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Molybdenum cofactor biosynthesis	Molybdopterin-guanine_dinucleotide_biosynthesis_protein_MobA	0.25	0.010841283607979185
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	YgfZ	2-iminoacetate_synthase_(ThiH)_(EC_4.1.99.19)	0.3333333333333333	0.014455044810638912
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	YgfZ	7-cyano-7-deazaguanine_synthase_(EC_6.3.4.20)	0.2111111111111111	0.009154861713404645
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	YgfZ	Aminodeoxychorismate_lyase_(EC_4.1.3.38)	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	YgfZ	Coproporphyrinogen_III_oxidase,_oxygen-independent_(EC_1.3.99.22)	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	YgfZ	Coproporphyrinogen_III_oxidase,_oxygen-independent_(EC_1.3.99.22)_#_fragment	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	YgfZ	Dihydroorotase_(EC_3.5.2.3)	1.0	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	YgfZ	Glutamate_synthase_[NADPH]_small_chain_(EC_1.4.1.13)	0.3333333333333333	0.014455044810638912
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	YgfZ	Lipoate_synthase	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	YgfZ	Orotate_phosphoribosyltransferase_(EC_2.4.2.10)	1.5833333333333333	0.06866146285053483
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	YgfZ	Phosphoribosyl-AMP_cyclohydrolase_(EC_3.5.4.19)_/_Phosphoribosyl-ATP_pyrophosphatase_(EC_3.6.1.31)	1.0	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	YgfZ	Succinate_dehydrogenase_iron-sulfur_protein_(EC_1.3.99.1)	2.111111111111111	0.09154861713404644
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	YgfZ	tRNA-i(6)A37_methylthiotransferase_(EC_2.8.4.3)	0.625	0.02710320901994796
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	p-Aminobenzoyl-Glutamate Utilization	Catalyzes_the_cleavage_of_p-aminobenzoyl-glutamate_to_p-aminobenzoate_and_glutamate,_subunit_A	1	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Lipoic acid	BEY LIP	Lipoate_synthase	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Lipoic acid	BEY LIP	Pyridoxal_kinase_(EC_2.7.1.35)	0.6666666666666666	0.028910089621277824
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Lipoic acid	Lipoate  transport	Lipoate_synthase	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Lipoic acid	Lipoic acid metabolism	Lipoate_synthase	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	NAD and NADP	NAD and NADP cofactor biosynthesis global	NAD_kinase_(EC_2.7.1.23)	1	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	NAD and NADP	NAD and NADP cofactor biosynthesis global	NadR_transcriptional_regulator_/_Nicotinamide-nucleotide_adenylyltransferase,_NadR_family_(EC_2.7.7.1)_/_Ribosylnicotinamide_kinase_(EC_2.7.1.22)	1	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	NAD and NADP	NAD regulation	Nicotinamidase_(EC_3.5.1.19)	0.3333333333333333	0.014455044810638912
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Pyridoxin (Vitamin B6) Biosynthesis	1-deoxy-D-xylulose_5-phosphate_synthase_(EC_2.2.1.7)	0.14285714285714285	0.006195019204559535
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Pyridoxin (Vitamin B6) Biosynthesis	D-3-phosphoglycerate_dehydrogenase_(EC_1.1.1.95)	0.5333333333333333	0.02312807169702226
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Pyridoxin (Vitamin B6) Biosynthesis	Erythronate-4-phosphate_dehydrogenase_(EC_1.1.1.290)	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Pyridoxin (Vitamin B6) Biosynthesis	Pyridoxal_kinase_(EC_2.7.1.35)	1.6666666666666665	0.07227522405319456
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Test Pyridoxin B6	1-deoxy-D-xylulose_5-phosphate_synthase_(EC_2.2.1.7)	0.14285714285714285	0.006195019204559535
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Test Pyridoxin B6	D-3-phosphoglycerate_dehydrogenase_(EC_1.1.1.95)	0.5333333333333333	0.02312807169702226
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Test Pyridoxin B6	Erythronate-4-phosphate_dehydrogenase_(EC_1.1.1.290)	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Test Pyridoxin B6	Pyridoxal_kinase_(EC_2.7.1.35)	0.6666666666666666	0.028910089621277824
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone Biosynthesis via Futalosine	Menaquinone_via_futalosine_step_3	0.3333333333333333	0.014455044810638912
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid_synthase_(EC_2.2.1.9)	0.3333333333333333	0.014455044810638912
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis	O-succinylbenzoate_synthase_(EC_4.2.1.113)	4.666666666666666	0.20237062734894473
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-2-naphthoate	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid_synthase_(EC_2.2.1.9)	0.3333333333333333	0.014455044810638912
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-2-naphthoate	O-succinylbenzoate_synthase_(EC_4.2.1.113)	4.666666666666666	0.20237062734894473
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone biosynthesis from chorismate via 1,4-dihydroxy-6-naphthoate	Menaquinone_via_futalosine_step_3	0.3333333333333333	0.014455044810638912
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Quinone disambuiguation	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid_synthase_(EC_2.2.1.9)	0.3333333333333333	0.014455044810638912
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Quinone disambuiguation	Menaquinone_via_futalosine_step_3	0.3333333333333333	0.014455044810638912
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Ubiquinone biosynthesis -- gjo	3-demethylubiquinone-9_3-methyltransferase_(EC_2.1.1.64)	1.5	0.06504770164787511
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Ubiquinone biosynthesis -- gjo	SAM-dependent_methyltransferase_BT3209	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Flavodoxin	Flavodoxin_1	2	0.08673026886383348
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Riboflavin, FMN and FAD metabolism Extended	Multi_antimicrobial_extrusion_protein_(Na(+)/drug_antiporter),_MATE_family_of_MDR_efflux_pumps	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Riboflavin, FMN and FAD metabolism Extended	Na+-driven_multidrug_efflux_pump	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Test - Riboflavin	Multi_antimicrobial_extrusion_protein_(Na(+)/drug_antiporter),_MATE_family_of_MDR_efflux_pumps	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Test - Riboflavin	tRNA-specific_2-thiouridylase_MnmA	0.5	0.02168256721595837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	CbiZ Main	7-cyano-7-deazaguanine_synthase_(EC_6.3.4.20)	0.1	0.004336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	CbiZ Main	Queuosine_Biosynthesis_QueC_ATPase	0.1	0.004336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin	7-cyano-7-deazaguanine_synthase_(EC_6.3.4.20)	0.2111111111111111	0.009154861713404645
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin	L-threonine_3-O-phosphate_decarboxylase_(EC_4.1.1.81)	1.0	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin	Queuosine_Biosynthesis_QueC_ATPase	0.2111111111111111	0.009154861713404645
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin synthesis	Cobalt-precorrin-6x_reductase_(EC_1.3.1.54)_/_Cobalt-precorrin-6_synthase,_anaerobic	1.0	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin synthesis	L-threonine_3-O-phosphate_decarboxylase_(EC_4.1.1.81)	1.0	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Coenzyme B12 biosynthesis	CobN_component_of_cobalt_chelatase_involved_in_B12_biosynthesis	3.0	0.13009540329575023
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Coenzyme B12 biosynthesis	Cobalt-precorrin-6x_reductase_(EC_1.3.1.54)_/_Cobalt-precorrin-6_synthase,_anaerobic	1.0	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Coenzyme B12 biosynthesis	L-threonine_3-O-phosphate_decarboxylase_(EC_4.1.1.81)	1.0	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Coenzyme B12 biosynthesis	Optional_hypothetical_component_of_the_B12_transporter_BtuN	1	0.04336513443191674
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Coenzyme B12 biosynthesis	Uncharacterized_protein_MJ1441	2.0	0.08673026886383348
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Heme biosynthesis orphans	Radical_SAM_domain_heme_biosynthesis_protein	7	0.3035559410234172
+DNA Metabolism	-	Restriction-Modification System	Type_I_restriction-modification_system,_specificity_subunit_S	0.25	0.010841283607979185
+DNA Metabolism	-	Restriction-Modification System	Type_I_restriction-modification_system,_specificity_subunit_S_(EC_3.1.21.3)	3.75	0.16261925411968778
+DNA Metabolism	-	Type I Restriction-Modification	Type_I_restriction-modification_system,_specificity_subunit_S	0.25	0.010841283607979185
+DNA Metabolism	-	Type I Restriction-Modification	Type_I_restriction-modification_system,_specificity_subunit_S_(EC_3.1.21.3)	3.75	0.16261925411968778
+DNA Metabolism	-	YcfH	Deoxyribonuclease_TatD	0.5	0.02168256721595837
+DNA Metabolism	-	YcfH	Putative_deoxyribonuclease_YcfH	5	0.21682567215958368
+DNA Metabolism	CRISPs	CRISPRs	CRISPR-associated_helicase_Cas3	1	0.04336513443191674
+DNA Metabolism	CRISPs	CRISPRs	CRISPR-associated_protein,_Cas5d_family	7	0.3035559410234172
+DNA Metabolism	DNA repair	2-phosphoglycolate salvage	Phosphoglycolate_phosphatase_(EC_3.1.3.18)	1.0	0.04336513443191674
+DNA Metabolism	DNA repair	ATP-dependent Nuclease	ATP-dependent_nuclease,_subunit_B	2	0.08673026886383348
+DNA Metabolism	DNA repair	DNA Repair Base Excision	DNA-3-methyladenine_glycosylase_(EC_3.2.2.20)	10.5	0.4553339115351257
+DNA Metabolism	DNA repair	DNA Repair Base Excision	DNA_polymerase_I_(EC_2.7.7.7)	1	0.04336513443191674
+DNA Metabolism	DNA repair	DNA Repair Base Excision	Endonuclease_III_(EC_4.2.99.18)	1	0.04336513443191674
+DNA Metabolism	DNA repair	DNA Repair Base Excision	Exodeoxyribonuclease_I_(EC_3.1.11.1)	1	0.04336513443191674
+DNA Metabolism	DNA repair	DNA Repair Base Excision	Single-stranded-DNA-specific_exonuclease_RecJ_(EC_3.1.-.-)	3.0	0.13009540329575023
+DNA Metabolism	DNA repair	DNA repair, UvrABC system	Excinuclease_ABC_subunit_C	3	0.13009540329575023
+DNA Metabolism	DNA repair	DNA repair, bacterial	A/G-specific_adenine_glycosylase_(EC_3.2.2.-)	3	0.13009540329575023
+DNA Metabolism	DNA repair	DNA repair, bacterial	DNA_repair_protein_RadA	3.166666666666667	0.1373229257010697
+DNA Metabolism	DNA repair	DNA repair, bacterial	Endonuclease_IV_(EC_3.1.21.2)	1	0.04336513443191674
+DNA Metabolism	DNA repair	DNA repair, bacterial	Exodeoxyribonuclease_III_(EC_3.1.11.2)	2	0.08673026886383348
+DNA Metabolism	DNA repair	DNA repair, bacterial	Methylated-DNA--protein-cysteine_methyltransferase_(EC_2.1.1.63)	1	0.04336513443191674
+DNA Metabolism	DNA repair	DNA repair, bacterial	Very-short-patch_mismatch_repair_endonuclease_(G-T_specific)	5	0.21682567215958368
+DNA Metabolism	DNA repair	DNA repair, bacterial DinG and relatives	DinG_family_ATP-dependent_helicase_CPE1197	1	0.04336513443191674
+DNA Metabolism	DNA repair	DNA repair, bacterial RecFOR pathway	ATP-dependent_DNA_helicase_RecQ	4.333333333333333	0.18791558253830584
+DNA Metabolism	DNA repair	DNA repair, bacterial RecFOR pathway	Single-stranded-DNA-specific_exonuclease_RecJ_(EC_3.1.-.-)	3.0	0.13009540329575023
+DNA Metabolism	DNA replication	DNA topoisomerases, Type I, ATP-independent	DNA_topoisomerase_I_(EC_5.99.1.2)	6.0	0.26019080659150046
+DNA Metabolism	DNA replication	DNA-replication	ATP-dependent_DNA_helicase_RecQ	4.333333333333333	0.18791558253830584
+DNA Metabolism	DNA replication	DNA-replication	ATP-dependent_DNA_helicase_RecQ_#_truncated	0.3333333333333333	0.014455044810638912
+DNA Metabolism	DNA replication	DNA-replication	DNA_polymerase_III_alpha_subunit_(EC_2.7.7.7)	1.5	0.06504770164787511
+DNA Metabolism	DNA replication	DNA-replication	DNA_polymerase_III_delta_prime_subunit_(EC_2.7.7.7)	1.0	0.04336513443191674
+DNA Metabolism	DNA replication	DNA-replication	DNA_polymerase_III_polC-type_(EC_2.7.7.7)	1.5	0.06504770164787511
+DNA Metabolism	DNA replication	DNA-replication	DNA_primase_(EC_2.7.7.-)	1	0.04336513443191674
+DNA Metabolism	DNA replication	DNA-replication	DNA_replication_protein_DnaC	1	0.04336513443191674
+DNA Metabolism	DNA replication	DNA-replication	Helicase_PriA_essential_for_oriC/DnaA-independent_DNA_replication	23	0.997398091934085
+DNA Metabolism	DNA replication	DNA-replication	Helicase_loader_DnaI	2	0.08673026886383348
+DNA Metabolism	DNA replication	DNA-replication	Single-stranded-DNA-specific_exonuclease_RecJ_(EC_3.1.-.-)	1.0	0.04336513443191674
+DNA Metabolism	DNA uptake, competence	DNA processing cluster	DNA_polymerase_III_subunits_gamma_and_tau_(EC_2.7.7.7)	2	0.08673026886383348
+DNA Metabolism	DNA uptake, competence	DNA processing cluster	DNA_topoisomerase_III_(EC_5.99.1.2)	4	0.17346053772766695
+DNA Metabolism	DNA uptake, competence	Gram Positive Competence	DNA-entry_nuclease_(Competence-specific_nuclease)_(EC_3.1.30.-)	5	0.21682567215958368
+DNA Metabolism	DNA uptake, competence	Late competence	DNA_binding_protein,_FIG046916	1	0.04336513443191674
+Fatty Acids, Lipids, and Isoprenoids	Fatty acids	Acyl-CoA thioesterase II	Acyl-CoA_thioesterase_II_(EC_3.1.2.-)	2.0	0.08673026886383348
+Fatty Acids, Lipids, and Isoprenoids	Fatty acids	Carnitine Metabolism in Microorganisms	Crotonobetainyl-CoA:carnitine_CoA-transferase_(EC_2.8.3.-)	0.5	0.02168256721595837
+Fatty Acids, Lipids, and Isoprenoids	Fatty acids	Carnitine Metabolism in Microorganisms	Crotonobetainyl-CoA:carnitine_CoA-transferase_(EC_2.8.3.21)	0.5	0.02168256721595837
+Fatty Acids, Lipids, and Isoprenoids	Fatty acids	Carnitine Metabolism in Microorganisms	L-carnitine/gamma-butyrobetaine_antiporter	1	0.04336513443191674
+Fatty Acids, Lipids, and Isoprenoids	Fatty acids	Fatty Acid Biosynthesis FASII	3-hydroxyacyl-[acyl-carrier-protein]_dehydratase,_FabA_form_(EC_4.2.1.59)	0.2	0.008673026886383347
+Fatty Acids, Lipids, and Isoprenoids	Fatty acids	Fatty Acid Biosynthesis FASII	3-hydroxyacyl-[acyl-carrier-protein]_dehydratase,_FabA_form_(EC_4.2.1.59)_@_Trans-2-decenoyl-[acyl-carrier-protein]_isomerase_(EC_5.3.3.14)	0.2	0.008673026886383347
+Fatty Acids, Lipids, and Isoprenoids	Fatty acids	Fatty Acid Biosynthesis FASII	3-hydroxydecanoyl-[acyl-carrier-protein]_dehydratase_(EC_4.2.1.59)	0.2	0.008673026886383347
+Fatty Acids, Lipids, and Isoprenoids	Fatty acids	Unsaturated Fatty Acid Metabolism	3-hydroxyacyl-[acyl-carrier-protein]_dehydratase,_FabA_form_(EC_4.2.1.59)	0.2	0.008673026886383347
+Fatty Acids, Lipids, and Isoprenoids	Fatty acids	Unsaturated Fatty Acid Metabolism	3-hydroxyacyl-[acyl-carrier-protein]_dehydratase,_FabA_form_(EC_4.2.1.59)_@_Trans-2-decenoyl-[acyl-carrier-protein]_isomerase_(EC_5.3.3.14)	0.2	0.008673026886383347
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Isoprenoid Biosynthesis	1-deoxy-D-xylulose_5-phosphate_synthase_(EC_2.2.1.7)	0.14285714285714285	0.006195019204559535
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Isoprenoid Biosynthesis	2-C-methyl-D-erythritol_4-phosphate_cytidylyltransferase_(EC_2.7.7.60)	0.25	0.010841283607979185
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Isoprenoid Biosynthesis	Undecaprenyl_diphosphate_synthase_(EC_2.5.1.31)	0.45	0.019514310494362534
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Isoprenoinds for Quinones	Undecaprenyl_diphosphate_synthase_(EC_2.5.1.31)	0.45	0.019514310494362534
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Nonmevalonate Branch of Isoprenoid Biosynthesis	2-C-methyl-D-erythritol_4-phosphate_cytidylyltransferase_(EC_2.7.7.60)	0.25	0.010841283607979185
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Polyprenyl Diphosphate Biosynthesis	Undecaprenyl_diphosphate_synthase_(EC_2.5.1.31)	0.45	0.019514310494362534
+Fatty Acids, Lipids, and Isoprenoids	Phospholipids	Glycerolipid and Glycerophospholipid Metabolism in Bacteria	1-acyl-sn-glycerol-3-phosphate_acyltransferase_(EC_2.3.1.51)	3	0.13009540329575023
+Fatty Acids, Lipids, and Isoprenoids	Phospholipids	Glycerolipid and Glycerophospholipid Metabolism in Bacteria	Acyl-phosphate:glycerol-3-phosphate_O-acyltransferase_PlsY	3	0.13009540329575023
+Fatty Acids, Lipids, and Isoprenoids	Phospholipids	Glycerolipid and Glycerophospholipid Metabolism in Bacteria	Alcohol_dehydrogenase_(EC_1.1.1.1)	4.333333333333333	0.18791558253830584
+Fatty Acids, Lipids, and Isoprenoids	Phospholipids	Glycerolipid and Glycerophospholipid Metabolism in Bacteria	Cardiolipin_synthetase_(EC_2.7.8.-)	1	0.04336513443191674
+Fatty Acids, Lipids, and Isoprenoids	Phospholipids	Glycerolipid and Glycerophospholipid Metabolism in Bacteria	Glycerol-3-phosphate_dehydrogenase_(EC_1.1.5.3)	1.0	0.04336513443191674
+Fatty Acids, Lipids, and Isoprenoids	Phospholipids	Glycerolipid and Glycerophospholipid Metabolism in Bacteria	Glycerol_kinase_(EC_2.7.1.30)	1	0.04336513443191674
+Fatty Acids, Lipids, and Isoprenoids	Phospholipids	Glycerolipid and Glycerophospholipid Metabolism in Bacteria	Phosphatidate_cytidylyltransferase_(EC_2.7.7.41)	1.0	0.04336513443191674
+Fatty Acids, Lipids, and Isoprenoids	Triacylglycerols	Triacylglycerol metabolism	Lysophospholipase_(EC_3.1.1.5)	1	0.04336513443191674
+Iron acquisition and metabolism	-	Campylobacter Iron Metabolism	Magnesium_and_cobalt_transport_protein_CorA	7	0.3035559410234172
+Iron acquisition and metabolism	Siderophores	Siderophore Yersiniabactin Biosynthesis	iron_aquisition_yersiniabactin_synthesis_enzyme_(Irp2)	0.3333333333333333	0.014455044810638912
+Iron acquisition and metabolism	Siderophores	Siderophore Yersiniabactin Biosynthesis	iron_aquisition_yersiniabactin_synthesis_enzyme_(Irp2)_@_Siderophore_biosynthesis_non-ribosomal_peptide_synthetase_modules	0.3333333333333333	0.014455044810638912
+Iron acquisition and metabolism	Siderophores	Siderophore assembly kit	Siderophore_biosynthesis_non-ribosomal_peptide_synthetase_modules	0.3333333333333333	0.014455044810638912
+Membrane Transport	-	Choline Transport	Choline-sulfatase_(EC_3.1.6.6)	1.5	0.06504770164787511
+Membrane Transport	-	Choline Transport	Uncharacterized_sulfatase_YidJ	1.5	0.06504770164787511
+Membrane Transport	-	Ton and Tol transport systems	Colicin_I_receptor_precursor	0.35238095238095235	0.01528104737124685
+Membrane Transport	-	Ton and Tol transport systems	Regulatory_sensor-transducer,_BlaR1/MecR1_family_/_TonB-dependent_receptor	1	0.04336513443191674
+Membrane Transport	-	Ton and Tol transport systems	Thiamin-regulated_outer_membrane_receptor_Omr1	0.5	0.02168256721595837
+Membrane Transport	-	Ton and Tol transport systems	TonB-Dependent_Hemoglobin_Receptor_HmuR	1.5	0.06504770164787511
+Membrane Transport	-	Ton and Tol transport systems	TonB-dependent_receptor	86.0	3.7294015611448397
+Membrane Transport	-	Ton and Tol transport systems	TonB-dependent_receptor;_Enterobactin_receptor_IrgA	5	0.21682567215958368
+Membrane Transport	-	Ton and Tol transport systems	TonB-dependent_receptor;_Outer_membrane_receptor_for_ferrienterochelin_and_colicins	2	0.08673026886383348
+Membrane Transport	-	Ton and Tol transport systems	TonB_family_protein_/_TonB-dependent_receptor	8	0.3469210754553339
+Membrane Transport	-	Ton and Tol transport systems	tolB_protein_precursor,_periplasmic_protein_involved_in_the_tonb-independent_uptake_of_group_A_colicins	2	0.08673026886383348
+Membrane Transport	ABC transporters	ABC transporter oligopeptide (TC 3.A.1.5.1)	Oligopeptide_ABC_transporter,_periplasmic_oligopeptide-binding_protein_OppA_(TC_3.A.1.5.1)	2.0	0.08673026886383348
+Membrane Transport	ABC transporters	ABC transporter oligopeptide (TC 3.A.1.5.1)	Oligopeptide_transport_ATP-binding_protein_OppD_(TC_3.A.1.5.1)	5	0.21682567215958368
+Membrane Transport	ABC transporters	ABC transporter oligopeptide (TC 3.A.1.5.1)	Oligopeptide_transport_system_permease_protein_OppB_(TC_3.A.1.5.1)	5	0.21682567215958368
+Membrane Transport	Protein and nucleoprotein secretion system, Type IV	Type 4 conjugative transfer system, IncI1 type	IncI1_plasmid_conjugative_transfer_ATPase_PilQ	1	0.04336513443191674
+Membrane Transport	Protein and nucleoprotein secretion system, Type IV	Type 4 conjugative transfer system, IncI1 type	IncI1_plasmid_conjugative_transfer_pilus-tip_adhesin_protein_PilV	0.06666666666666667	0.0028910089621277824
+Membrane Transport	Protein and nucleoprotein secretion system, Type IV	Type 4 conjugative transfer system, IncI1 type	Plasmid_conjugative_transfer_endonuclease	1	0.04336513443191674
+Membrane Transport	Protein and nucleoprotein secretion system, Type IV	Type 4 conjugative transfer system, IncI1 type	Type-IV_sectretion_leader_peptidase/N-methyltransferase	3	0.13009540329575023
+Membrane Transport	Protein and nucleoprotein secretion system, Type IV	pVir Plasmid of Campylobacter	DNA_topoisomerase_I_(EC_5.99.1.2)	1.0	0.04336513443191674
+Membrane Transport	Protein secretion system, Chaperone-Usher pathway (CU)	The fimbrial Stf cluster	Fimbriae_usher_protein_StfC	1	0.04336513443191674
+Membrane Transport	Protein secretion system, Chaperone-Usher pathway (CU)	The fimbrial Stf cluster	Uncharacterized_protein_YadU_in_stf_fimbrial_cluster	1	0.04336513443191674
+Membrane Transport	Protein secretion system, Type VI	Type VI secretion systems	Uncharacterized_protein_ImpA	2	0.08673026886383348
+Membrane Transport	Protein translocation across cytoplasmic membrane	Twin-arginine translocation system	Deoxyribonuclease_TatD	0.5	0.02168256721595837
+Membrane Transport	Protein translocation across cytoplasmic membrane	Twin-arginine translocation system	Twin-arginine_translocation_protein_TatC	0.5	0.02168256721595837
+Membrane Transport	Sugar Phosphotransferase Systems, PTS	Fructose and Mannose Inducible PTS	Phosphoenolpyruvate-protein_phosphotransferase_of_PTS_system_(EC_2.7.3.9)	0.3333333333333333	0.014455044810638912
+Membrane Transport	Uni- Sym- and Antiporters	Proton-dependent Peptide Transporters	Di/tripeptide_permease_YjdL	1	0.04336513443191674
+Metabolism of Aromatic Compounds	-	Aromatic Amin Catabolism	Monoamine_oxidase_(1.4.3.4)	1	0.04336513443191674
+Metabolism of Aromatic Compounds	Metabolism of central aromatic intermediates	Salicylate and gentisate catabolism	4-hydroxybenzoate_transporter	0.3333333333333333	0.014455044810638912
+Metabolism of Aromatic Compounds	Peripheral pathways for catabolism of aromatic compounds	Benzoate catabolism	Benzoate_1,2-dioxygenase_(EC_1.14.12.10)	0.25	0.010841283607979185
+Metabolism of Aromatic Compounds	Peripheral pathways for catabolism of aromatic compounds	Benzoate catabolism	Putative_dioxygenase,_alpha_subunit_YeaW	0.25	0.010841283607979185
+Metabolism of Aromatic Compounds	Peripheral pathways for catabolism of aromatic compounds	p-Hydroxybenzoate degradation	4-hydroxybenzoate_transporter	0.3333333333333333	0.014455044810638912
+Miscellaneous	-	Broadly distributed proteins not in subsystems	UPF0234_protein_YajQ	1	0.04336513443191674
+Miscellaneous	-	EC 2.7.1.- Phosphotransferases with an alcohol group as acceptor	Aminoglycoside_3'-phosphotransferase_(EC_2.7.1.95)	3	0.13009540329575023
+Miscellaneous	-	EC 4. 1. 1.- Carboxy-lyases	Lysine_decarboxylase,_inducible_(EC_4.1.1.18)	0.3333333333333333	0.014455044810638912
+Miscellaneous	-	EC 4. 1. 1.- Carboxy-lyases	Lysine_decarboxylase_2,_constitutive_(EC_4.1.1.18)	0.3333333333333333	0.014455044810638912
+Miscellaneous	-	EC 4.1.2.- Aldehyde-lyases	Xylulose-5-phosphate_phosphoketolase_(EC_4.1.2.9)_@_Fructose-6-phosphate_phosphoketolase_(EC_4.1.2.22)	0.25	0.010841283607979185
+Miscellaneous	-	EC 4.1.3.- Oxo-acid-lyases	Aminodeoxychorismate_lyase_(EC_4.1.3.38)	0.5	0.02168256721595837
+Miscellaneous	-	EC 6.3.4.- Ligases that form carbon-nitrogen bonds	7-cyano-7-deazaguanine_synthase_(EC_6.3.4.20)	0.2111111111111111	0.009154861713404645
+Miscellaneous	-	EC 6.3.4.- Ligases that form carbon-nitrogen bonds	Argininosuccinate_synthase_(EC_6.3.4.5)	1.0	0.04336513443191674
+Miscellaneous	-	EC 6.3.4.- Ligases that form carbon-nitrogen bonds	Queuosine_Biosynthesis_QueC_ATPase	0.2111111111111111	0.009154861713404645
+Miscellaneous	-	Metabolite repair	5'-nucleotidase_SurE_(EC_3.1.3.5)	0.3333333333333333	0.014455044810638912
+Miscellaneous	-	Metabolite repair	D-3-phosphoglycerate_dehydrogenase_(EC_1.1.1.95)	0.2	0.008673026886383347
+Miscellaneous	-	Muconate lactonizing enzyme family	O-succinylbenzoate_synthase_(EC_4.2.1.113)	4.666666666666666	0.20237062734894473
+Miscellaneous	Plant-Prokaryote comparative genomics	At1g69340 At2g40600	Beta-lactamase_class_C_and_other_penicillin_binding_proteins	3.5	0.1517779705117086
+Miscellaneous	Plant-Prokaryote comparative genomics	COG1836	Undecaprenyl_diphosphate_synthase_(EC_2.5.1.31)	0.2	0.008673026886383347
+Miscellaneous	Plant-Prokaryote comparative genomics	Competence or DNA damage-inducible protein CinA and related protein families	2-C-methyl-D-erythritol_4-phosphate_cytidylyltransferase_(EC_2.7.7.60)	0.25	0.010841283607979185
+Miscellaneous	Plant-Prokaryote comparative genomics	Competence or DNA damage-inducible protein CinA and related protein families	Lipoate_synthase	0.5	0.02168256721595837
+Miscellaneous	Plant-Prokaryote comparative genomics	Competence or DNA damage-inducible protein CinA and related protein families	Sugar/maltose_fermentation_stimulation_protein_homolog	2.0	0.08673026886383348
+Miscellaneous	Plant-Prokaryote comparative genomics	Competence or DNA damage-inducible protein CinA and related protein families	glutamyl-Q-tRNA_synthetase	0.25	0.010841283607979185
+Miscellaneous	Plant-Prokaryote comparative genomics	Conserved gene cluster possibly involved in RNA metabolism	Cysteinyl-tRNA_synthetase_(EC_6.1.1.16)	6.083333333333333	0.26380456779416017
+Miscellaneous	Plant-Prokaryote comparative genomics	IojapClusters	Biotin--protein_ligase_(EC_6.3.4.9)(EC_6.3.4.10)(EC_6.3.4.11)(EC_6.3.4.15)	1.1666666666666665	0.05059265683723618
+Miscellaneous	Plant-Prokaryote comparative genomics	IojapClusters	Nicotinamidase_(EC_3.5.1.19)	1.3333333333333333	0.05782017924255565
+Miscellaneous	Plant-Prokaryote comparative genomics	IojapClusters	Orotate_phosphoribosyltransferase_(EC_2.4.2.10)	2.25	0.09757155247181266
+Miscellaneous	Plant-Prokaryote comparative genomics	IojapClusters	Phosphatidate_cytidylyltransferase_(EC_2.7.7.41)	1.0	0.04336513443191674
+Miscellaneous	Plant-Prokaryote comparative genomics	Omega-amidase KE	Biosynthetic_Aromatic_amino_acid_aminotransferase_alpha_(EC_2.6.1.57)_@_Aspartate_aminotransferase_(EC_2.6.1.1)	0.3333333333333333	0.014455044810638912
+Miscellaneous	Plant-Prokaryote comparative genomics	Omega-amidase KE2	Acetylornithine_aminotransferase_(EC_2.6.1.11)	1.0	0.04336513443191674
+Miscellaneous	Plant-Prokaryote comparative genomics	Omega-amidase KE2	Argininosuccinate_synthase_(EC_6.3.4.5)	1.0	0.04336513443191674
+Miscellaneous	Plant-Prokaryote comparative genomics	Omega-amidase KE2	Aspartate_aminotransferase_(EC_2.6.1.1)	4.75	0.2059843885516045
+Miscellaneous	Plant-Prokaryote comparative genomics	Omega-amidase KE2	Biosynthetic_Aromatic_amino_acid_aminotransferase_alpha_(EC_2.6.1.57)_@_Aspartate_aminotransferase_(EC_2.6.1.1)	0.3333333333333333	0.014455044810638912
+Miscellaneous	Plant-Prokaryote comparative genomics	Omega-amidase KE2	Cystathionine_beta-lyase_(EC_4.4.1.8)	1	0.04336513443191674
+Miscellaneous	Plant-Prokaryote comparative genomics	Omega-amidase KE2	Diaminopimelate_epimerase_(EC_5.1.1.7)	0.25	0.010841283607979185
+Miscellaneous	Plant-Prokaryote comparative genomics	Omega-amidase KE2	L,L-diaminopimelate_aminotransferase_(EC_2.6.1.83)	1.0	0.04336513443191674
+Miscellaneous	Plant-Prokaryote comparative genomics	Omega-amidase KE2	Omega_amidase,_Nit2_homolog_(EC_3.5.1.3)	1	0.04336513443191674
+Miscellaneous	Plant-Prokaryote comparative genomics	Single-Rhodanese-domain proteins	Rhodanese_domain_protein,_Enterobacterial_subgroup,_YceA_homolog	0.5	0.02168256721595837
+Miscellaneous	Plant-Prokaryote comparative genomics	Synechocystis experimental	Prolyl_oligopeptidase_family_protein	3	0.13009540329575023
+Miscellaneous	Plant-Prokaryote comparative genomics	YebC	Acyl-CoA_thioesterase_II_(EC_3.1.2.-)	2.0	0.08673026886383348
+Miscellaneous	Plant-Prokaryote comparative genomics	YebC	GTP-binding_and_nucleic_acid-binding_protein_YchF	0.5	0.02168256721595837
+Miscellaneous	Plant-Prokaryote comparative genomics	YebC	Threonyl-tRNA_synthetase_(EC_6.1.1.3)	7.5	0.32523850823937556
+Miscellaneous	Plant-Prokaryote comparative genomics	YgfZ-Fe-S	Lipoate_synthase	0.5	0.02168256721595837
+Miscellaneous	Plant-Prokaryote comparative genomics	YgfZ-Fe-S	Rhodanese_domain_protein,_Enterobacterial_subgroup,_YceA_homolog	0.5	0.02168256721595837
+Miscellaneous	Plant-Prokaryote comparative genomics	YgfZ-Fe-S	Succinate_dehydrogenase_iron-sulfur_protein_(EC_1.3.99.1)	0.1111111111111111	0.004818348270212971
+Motility and Chemotaxis	-	Bacterial Chemotaxis	Flagellar_motor_switch_protein_FliG	0.35238095238095235	0.01528104737124685
+Motility and Chemotaxis	Flagellar motility in Prokaryota	Flagellar motility	Flagellar_biosynthesis_protein_FlhA	0.5	0.02168256721595837
+Motility and Chemotaxis	Flagellar motility in Prokaryota	Flagellum	Flagellar_biosynthesis_protein_FlhA	0.5	0.02168256721595837
+Motility and Chemotaxis	Flagellar motility in Prokaryota	Flagellum	Flagellar_motor_switch_protein_FliG	0.35238095238095235	0.01528104737124685
+Motility and Chemotaxis	Social motility and nonflagellar swimming in bacteria	Bacterial motility:Gliding	Type_IV_fimbrial_assembly,_ATPase_PilB	1	0.04336513443191674
+Nitrogen Metabolism	-	Allantoin Utilization	Ureidoglycolate_hydrolase_(EC_3.5.3.19)	0.25	0.010841283607979185
+Nitrogen Metabolism	-	Allantoin Utilization	Ureidoglycolate_lyase_(EC_4.3.2.3)	0.25	0.010841283607979185
+Nitrogen Metabolism	-	Ammonia assimilation	Glutamate_synthase_[NADPH]_small_chain_(EC_1.4.1.13)	7.833333333333334	0.3396935530500145
+Nitrogen Metabolism	-	Ammonia assimilation	Glutamine_synthetase,_clostridia_type_(EC_6.3.1.2)	0.25	0.010841283607979185
+Nitrogen Metabolism	-	Nitrate and nitrite ammonification	4Fe-4S_ferredoxin,_iron-sulfur_binding	1	0.04336513443191674
+Nitrogen Metabolism	-	Nitrate and nitrite ammonification	Cytochrome_c_nitrite_reductase,_small_subunit_NrfH	0.3333333333333333	0.014455044810638912
+Nitrogen Metabolism	-	Nitrate and nitrite ammonification	Nitrite_reductase_[NAD(P)H]_small_subunit_(EC_1.7.1.4)	0.3333333333333333	0.014455044810638912
+Nitrogen Metabolism	-	Nitrate and nitrite ammonification	Respiratory_nitrate_reductase_alpha_chain_(EC_1.7.99.4)	0.3333333333333333	0.014455044810638912
+Nitrogen Metabolism	-	Nitrate and nitrite ammonification	Respiratory_nitrate_reductase_beta_chain_(EC_1.7.99.4)	3.0	0.13009540329575023
+Nitrogen Metabolism	-	Nitrosative stress	Anaerobic_nitric_oxide_reductase_flavorubredoxin	1	0.04336513443191674
+Nitrogen Metabolism	-	Nitrosative stress	Nitric-oxide_reductase_(EC_1.7.99.7),_quinol-dependent	0.75	0.03252385082393756
+Nucleosides and Nucleotides	-	Ribonucleotide reduction	Ribonucleotide_reductase_of_class_III_(anaerobic),_activating_protein_(EC_1.97.1.4)	24	1.0407632263660018
+Nucleosides and Nucleotides	-	Ribonucleotide reduction	Ribonucleotide_reductase_of_class_III_(anaerobic),_large_subunit_(EC_1.17.4.2)	21	0.9106678230702514
+Nucleosides and Nucleotides	-	Ribonucleotide reduction	Ribonucleotide_reductase_of_class_II_(coenzyme_B12-dependent)_(EC_1.17.4.1)	4	0.17346053772766695
+Nucleosides and Nucleotides	-	Ribonucleotide reduction	Ribonucleotide_reductase_of_class_Ia_(aerobic),_beta_subunit_(EC_1.17.4.1)	1	0.04336513443191674
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Amidophosphoribosyltransferase_(EC_2.4.2.14)	1.5	0.06504770164787511
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Phosphoribosylformylglycinamidine_cyclo-ligase_(EC_6.3.3.1)	1	0.04336513443191674
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Phosphoribosylformylglycinamidine_synthase,_synthetase_subunit_(EC_6.3.5.3)	2	0.08673026886383348
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Phosphoribosylformylglycinamidine_synthase,_synthetase_subunit_(EC_6.3.5.3)_/_Phosphoribosylformylglycinamidine_synthase,_glutamine_amidotransferase_subunit_(EC_6.3.5.3)	7	0.3035559410234172
+Nucleosides and Nucleotides	Purines	Purine Utilization	Beta-hexosaminidase_(EC_3.2.1.52)	13.649999999999999	0.5919340849956634
+Nucleosides and Nucleotides	Purines	Purine Utilization	Guanine_deaminase_(EC_3.5.4.3);_Hydroxydechloroatrazine_ethylaminohydrolase_(EC_3.5.99.3)	0.5	0.02168256721595837
+Nucleosides and Nucleotides	Purines	Purine Utilization	Xanthine_dehydrogenase,_molybdenum_binding_subunit_(EC_1.17.1.4)	1.6666666666666665	0.07227522405319456
+Nucleosides and Nucleotides	Purines	Purine Utilization	Xanthine_dehydrogenase_iron-sulfur_subunit_(EC_1.17.1.4)_/_Xanthine_dehydrogenase,_molybdenum_binding_subunit_(EC_1.17.1.4)	0.6666666666666666	0.028910089621277824
+Nucleosides and Nucleotides	Purines	Purine Utilization	beta-glycosyl_hydrolase	1.1166666666666667	0.04842440011564036
+Nucleosides and Nucleotides	Purines	Purine Utilization	beta-hexosaminidase_precursor	4	0.17346053772766695
+Nucleosides and Nucleotides	Purines	Purine conversions	Adenine_deaminase_(EC_3.5.4.2)	3	0.13009540329575023
+Nucleosides and Nucleotides	Purines	Purine conversions	Alkaline_phosphodiesterase_I_(EC_3.1.4.1)_/_Nucleotide_pyrophosphatase_(EC_3.6.1.9)	3	0.13009540329575023
+Nucleosides and Nucleotides	Purines	Purine conversions	Deoxyadenosine_kinase_(EC_2.7.1.76)_/_Deoxyguanosine_kinase_(EC_2.7.1.113)	1	0.04336513443191674
+Nucleosides and Nucleotides	Purines	Purine conversions	Deoxyguanosinetriphosphate_triphosphohydrolase_(EC_3.1.5.1)	0.5	0.02168256721595837
+Nucleosides and Nucleotides	Purines	Purine conversions	Deoxyguanosinetriphosphate_triphosphohydrolase_(EC_3.1.5.1),_subgroup_1	1	0.04336513443191674
+Nucleosides and Nucleotides	Purines	Purine conversions	Guanine_deaminase_(EC_3.5.4.3);_Hydroxydechloroatrazine_ethylaminohydrolase_(EC_3.5.99.3)	0.5	0.02168256721595837
+Nucleosides and Nucleotides	Purines	Purine conversions	Polyphosphate_kinase_(EC_2.7.4.1)	7	0.3035559410234172
+Nucleosides and Nucleotides	Purines	Purine conversions	dNTP_triphosphohydrolase,_broad_substrate_specificity	0.5	0.02168256721595837
+Nucleosides and Nucleotides	Purines	Purine conversions	preQ1-regulated_inosine-uridine_nucleoside_hydrolase_(EC_3.2.2.1)	0.5	0.02168256721595837
+Nucleosides and Nucleotides	Purines	Xanthosine utilization (xap region)	Xanthosine_operon_regulatory_protein_XapR,_LysR_family	0.5	0.02168256721595837
+Nucleosides and Nucleotides	Pyrimidines	De Novo Pyrimidine Synthesis	Carbamoyl-phosphate_synthase_small_chain_(EC_6.3.5.5)	0.5	0.02168256721595837
+Nucleosides and Nucleotides	Pyrimidines	De Novo Pyrimidine Synthesis	Dihydroorotase_(EC_3.5.2.3)	1.0	0.04336513443191674
+Nucleosides and Nucleotides	Pyrimidines	De Novo Pyrimidine Synthesis	Orotate_phosphoribosyltransferase_(EC_2.4.2.10)	1.5833333333333333	0.06866146285053483
+Nucleosides and Nucleotides	Pyrimidines	De Novo Pyrimidine Synthesis	Uracil_permease	1	0.04336513443191674
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	Cytosine_deaminase_(EC_3.5.4.1)	0.5	0.02168256721595837
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	Thymidine_kinase_(EC_2.7.1.21)	1.0	0.04336513443191674
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	Thymidylate_synthase_(EC_2.1.1.45)	2.6666666666666665	0.1156403584851113
+Phages, Prophages, Transposable elements, Plasmids	Pathogenicity islands	Listeria Pathogenicity Island LIPI-1 extended	Thiol-activated_cytolysin	1	0.04336513443191674
+Phages, Prophages, Transposable elements, Plasmids	Phages, Prophages	IbrA and IbrB: co-activators of prophage gene expression	Co-activator_of_prophage_gene_expression_IbrA	9	0.39028620988725066
+Phages, Prophages, Transposable elements, Plasmids	Phages, Prophages	Phage head and packaging	Phage_terminase,_large_subunit	0.6666666666666666	0.028910089621277824
+Phages, Prophages, Transposable elements, Plasmids	Phages, Prophages	Phage head and packaging	Phage_terminase,_large_subunit_(lambda-like_5'-extended_COS_ends)	0.6666666666666666	0.028910089621277824
+Phages, Prophages, Transposable elements, Plasmids	Phages, Prophages	Phage nin genes - N-independent survival	Phage_antitermination_protein_Q	1	0.04336513443191674
+Phages, Prophages, Transposable elements, Plasmids	Phages, Prophages	Phage packaging machinery	Phage_terminase,_large_subunit	0.6666666666666666	0.028910089621277824
+Phages, Prophages, Transposable elements, Plasmids	Phages, Prophages	Phage tail fiber proteins	Phage_tail_fiber_protein	1.3523809523809522	0.05864618180316358
+Phages, Prophages, Transposable elements, Plasmids	Phages, Prophages	Staphylococcal phi-Mu50B-like prophages	Iron-sulfur_cluster_assembly_protein_SufB	0.3333333333333333	0.014455044810638912
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Putative_conjugative_transposon_mobilization_protein_BF0132	1	0.04336513443191674
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Putative_mobilization_protein_BF0133	1	0.04336513443191674
+Phosphorus Metabolism	-	Alkylphosphonate utilization	Alkylphosphonate_utilization_operon_protein_PhnA	2.0	0.08673026886383348
+Phosphorus Metabolism	-	Alkylphosphonate utilization	Alpha-D-ribose_1-methylphosphonate_5-phosphate_C-P_lyase_(EC_4.7.1.1)	0.5	0.02168256721595837
+Phosphorus Metabolism	-	Alkylphosphonate utilization	PhnJ_protein	0.5	0.02168256721595837
+Phosphorus Metabolism	-	Alkylphosphonate utilization	Protein_PhnA_##_not_part_of_phosphonate_utilization	1.0	0.04336513443191674
+Phosphorus Metabolism	-	Phosphate metabolism	Alkaline_phosphatase_(EC_3.1.3.1)	1	0.04336513443191674
+Phosphorus Metabolism	-	Phosphate metabolism	Predicted_ATPase_related_to_phosphate_starvation-inducible_protein_PhoH	1	0.04336513443191674
+Potassium metabolism	-	Potassium homeostasis	Potassium_voltage-gated_channel_subfamily_KQT;_possible_potassium_channel,_VIC_family	1	0.04336513443191674
+Predictions based on plant-prokaryote comparative analysis	-	At1g14345	Inner_membrane_protein_translocase_component_YidC,_short_form_OxaI-like_#_frameshift	0.3333333333333333	0.014455044810638912
+Predictions based on plant-prokaryote comparative analysis	-	At1g26220 At1g32070	Protein_translocase_subunit_SecA	0.8333333333333333	0.03613761202659728
+Predictions based on plant-prokaryote comparative analysis	-	At2g23840	Cysteinyl-tRNA_synthetase_(EC_6.1.1.16)	6.583333333333333	0.2854871350101185
+Predictions based on plant-prokaryote comparative analysis	-	At3g21300	23S_rRNA_(Uracil-5-)_-methyltransferase_RumA_(EC_2.1.1.-)	0.3333333333333333	0.014455044810638912
+Predictions based on plant-prokaryote comparative analysis	-	At3g21300	23S_rRNA_(uracil(1939)-C(5))-methyltransferase_(EC_2.1.1.190)_##_RlmD	0.3333333333333333	0.014455044810638912
+Predictions based on plant-prokaryote comparative analysis	-	At3g21300	RNA_methyltransferase,_TrmA_family	2	0.08673026886383348
+Protein Metabolism	Protein biosynthesis	Ribosomal proteins, zinc requirement	LSU_ribosomal_protein_L32p_@_LSU_ribosomal_protein_L32p,_zinc-dependent	6.166666666666666	0.26741832899681983
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU_ribosomal_protein_L2p_(L8e)	0.5	0.02168256721595837
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU_ribosomal_protein_L32p	2.6666666666666665	0.1156403584851113
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU_ribosomal_protein_L32p_@_LSU_ribosomal_protein_L32p,_zinc-dependent	6.166666666666666	0.26741832899681983
+Protein Metabolism	Protein biosynthesis	Ribosome biogenesis bacterial	Ribosomal-protein-S5p-alanine_acetyltransferase	1.5	0.06504770164787511
+Protein Metabolism	Protein biosynthesis	Single-copy ribosomal proteins	LSU_ribosomal_protein_L2p_(L8e)	0.5	0.02168256721595837
+Protein Metabolism	Protein biosynthesis	Translation elongation factor G family	Elongation_factor_G-like_protein_TM_1651	1.25	0.05420641803989592
+Protein Metabolism	Protein biosynthesis	Translation elongation factor G family	Tetracycline_resistance_protein_TetM	5	0.21682567215958368
+Protein Metabolism	Protein biosynthesis	Translation elongation factor G family	Translation_elongation_factor_G-related_protein	1.25	0.05420641803989592
+Protein Metabolism	Protein biosynthesis	Translation elongation factors bacterial	Elongation_factor_G-like_protein_TM_1651	1.25	0.05420641803989592
+Protein Metabolism	Protein biosynthesis	Translation elongation factors bacterial	Translation_elongation_factor_G-related_protein	1.25	0.05420641803989592
+Protein Metabolism	Protein biosynthesis	Translation termination factors bacterial	Methionine_aminopeptidase_(EC_3.4.11.18)	1.5	0.06504770164787511
+Protein Metabolism	Protein biosynthesis	Translation termination factors bacterial	Peptide_chain_release_factor_homolog	0.3333333333333333	0.014455044810638912
+Protein Metabolism	Protein biosynthesis	Translation termination factors bacterial	Peptide_deformylase_(EC_3.5.1.88)	0.5	0.02168256721595837
+Protein Metabolism	Protein biosynthesis	Translation termination factors bacterial	Protein_with_similarity_to_RtcB	0.3333333333333333	0.014455044810638912
+Protein Metabolism	Protein biosynthesis	Universal GTPases	GTP-binding_and_nucleic_acid-binding_protein_YchF	2.5	0.10841283607979184
+Protein Metabolism	Protein biosynthesis	Universal GTPases	Ribosome_small_subunit-stimulated_GTPase_EngC	10.0	0.43365134431916735
+Protein Metabolism	Protein biosynthesis	Universal GTPases	Ribosome_small_subunit_biogenesis_RbfA-release_protein_RsgA	0.5	0.02168256721595837
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Ala	Alanyl-tRNA_synthetase_(EC_6.1.1.7)	8.5	0.3686036426712923
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Asp and Asn	Asparaginyl-tRNA_synthetase_(EC_6.1.1.22)	1.5	0.06504770164787511
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Asp and Asn	Aspartyl-tRNA_synthetase_(EC_6.1.1.12)	1.0	0.04336513443191674
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Asp and Asn	Glutaminyl-tRNA_synthetase_(EC_6.1.1.18)	3.5	0.1517779705117086
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Cys	Cysteinyl-tRNA_synthetase_(EC_6.1.1.16)	11.083333333333334	0.4806302399537439
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Glu and Gln	Asparaginyl-tRNA_synthetase_(EC_6.1.1.22)	1.5	0.06504770164787511
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Glu and Gln	Glutaminyl-tRNA_synthetase_(EC_6.1.1.18)	2.5	0.10841283607979184
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Glu and Gln	Glutamyl-tRNA_synthetase_(EC_6.1.1.17)_@_Glutamyl-tRNA(Gln)_synthetase_(EC_6.1.1.24)	0.5	0.02168256721595837
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Glu and Gln	Glutamyl-tRNA_synthetase_(EC_6.1.1.17)_@_Glutamyl-tRNA(Gln)_synthetase_(EC_6.1.1.24)_##_unambiguous	1.5	0.06504770164787511
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Gly	Glycyl-tRNA_synthetase_(EC_6.1.1.14)	1	0.04336513443191674
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Gly	Glycyl-tRNA_synthetase_alpha_chain_(EC_6.1.1.14)	1	0.04336513443191674
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Ile	Isoleucyl-tRNA_synthetase_(EC_6.1.1.5)	26.0	1.1274934952298352
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Leu	Leucyl-tRNA_synthetase_(EC_6.1.1.4)	21	0.9106678230702514
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Met	Methionyl-tRNA_synthetase_(EC_6.1.1.10)	25	1.0841283607979184
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Phe	Phenylalanyl-tRNA_synthetase_alpha_chain_(EC_6.1.1.20)	13	0.5637467476149176
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Phe	Phenylalanyl-tRNA_synthetase_beta_chain_(EC_6.1.1.20)	2	0.08673026886383348
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Ser	Seryl-tRNA_synthetase_(EC_6.1.1.11)	2	0.08673026886383348
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Thr	Threonyl-tRNA_synthetase_(EC_6.1.1.3)	3.5	0.1517779705117086
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Tyr	Tyrosyl-tRNA_synthetase_(EC_6.1.1.1)_##_cluster_1	2	0.08673026886383348
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Val	Valyl-tRNA_synthetase_(EC_6.1.1.9)	65	2.818733738074588
+Protein Metabolism	Protein degradation	EC 3.4.11.- Aminopeptidases	Aminopeptidase_Y_(Arg,_Lys,_Leu_preference)_(EC_3.4.11.15)	3	0.13009540329575023
+Protein Metabolism	Protein degradation	EC 3.4.11.- Aminopeptidases	Membrane_alanine_aminopeptidase_N_(EC_3.4.11.2)	3.5	0.1517779705117086
+Protein Metabolism	Protein degradation	EC 3.4.11.- Aminopeptidases	Methionine_aminopeptidase_(EC_3.4.11.18)	1.5	0.06504770164787511
+Protein Metabolism	Protein degradation	EC 3.4.13.- Dipeptidases	Xaa-Pro_dipeptidase_PepQ_(EC_3.4.13.9)	1	0.04336513443191674
+Protein Metabolism	Protein degradation	EC 3.4.17.- Metallocarboxypeptidases	D-alanyl-D-alanine_carboxypeptidase_(EC_3.4.16.4)	0.6000000000000001	0.026019080659150044
+Protein Metabolism	Protein degradation	EC 3.4.21.- Serine endopeptidase	Lysyl_endopeptidase_(EC_3.4.21.50)_##_LysXxx_(including_Pro)	1	0.04336513443191674
+Protein Metabolism	Protein degradation	Proteasome bacterial	ATP-dependent_protease_La_(EC_3.4.21.53)_Type_II	1.0	0.04336513443191674
+Protein Metabolism	Protein degradation	Proteasome bacterial	Lon_protease_homolog_YcbZ	1.0	0.04336513443191674
+Protein Metabolism	Protein degradation	Protein degradation	Aminopeptidase_C_(EC_3.4.22.40)	6	0.26019080659150046
+Protein Metabolism	Protein degradation	Proteolysis in bacteria, ATP-dependent	ATP-dependent_Clp_protease_adaptor_protein_ClpS	1	0.04336513443191674
+Protein Metabolism	Protein folding	Peptidyl-prolyl cis-trans isomerase	FKBP-type_peptidyl-prolyl_cis-trans_isomerase_FklB_(EC_5.2.1.8)	2	0.08673026886383348
+Protein Metabolism	Protein folding	Periplasmic disulfide interchange	Cytochrome_c-type_biogenesis_protein_CcdA_(DsbD_analog)_/_Cytochrome_c-type_biogenesis_protein_ResA	0.5833333333333333	0.02529632841861809
+Protein Metabolism	Protein folding	Protein chaperones	Chaperone_protein_DnaJ	1.0	0.04336513443191674
+Protein Metabolism	Protein processing and modification	Lipoprotein Biosynthesis	Prolipoprotein_diacylglyceryl_transferase_(EC_2.4.99.-)	1	0.04336513443191674
+Protein Metabolism	Protein processing and modification	Peptide methionine sulfoxide reductase	Cytochrome_c-type_biogenesis_protein_CcdA_(DsbD_analog)_/_Cytochrome_c-type_biogenesis_protein_ResA	0.3333333333333333	0.014455044810638912
+Protein Metabolism	Protein processing and modification	Protein Acetylation and Deacetylation in Bacteria	Acetyl-CoA_synthetase_(EC_6.2.1.1)	0.25	0.010841283607979185
+Protein Metabolism	Protein processing and modification	Protein Acetylation and Deacetylation in Bacteria	Acetyl-coenzyme_A_synthetase_(EC_6.2.1.1)	0.25	0.010841283607979185
+Protein Metabolism	Protein processing and modification	Ribosomal protein S12p Asp methylthiotransferase	tRNA-i(6)A37_methylthiotransferase	0.875	0.03794449262792715
+Protein Metabolism	Protein processing and modification	Ribosomal protein S12p Asp methylthiotransferase	tRNA-i(6)A37_methylthiotransferase_(EC_2.8.4.3)	0.625	0.02710320901994796
+Protein Metabolism	Protein processing and modification	Ribosomal protein S12p Asp methylthiotransferase	tRNA-t(6)A37_methylthiotransferase	0.3333333333333333	0.014455044810638912
+Protein Metabolism	Protein processing and modification	Ribosomal protein S5p acylation	Ribosomal-protein-S5p-alanine_acetyltransferase	0.5	0.02168256721595837
+Protein Metabolism	Protein processing and modification	SCIFF peptide maturase system	SCIFF_radical_SAM_maturase	3	0.13009540329575023
+Protein Metabolism	Protein processing and modification	Signal peptidase	Signal_peptidase_I_(EC_3.4.21.89)	5	0.21682567215958368
+Protein Metabolism	Selenoproteins	Glycine reductase, sarcosine reductase and betaine reductase	Thioredoxin	2.5	0.10841283607979184
+Protein Metabolism	Selenoproteins	Selenocysteine metabolism	Formate_dehydrogenase_H_(EC_1.2.1.2)_@_selenocysteine-containing	0.5	0.02168256721595837
+RNA Metabolism	-	Group II intron-associated genes	Retron-type_reverse_transcriptase	11	0.47701647875108416
+RNA Metabolism	RNA processing and modification	Methylthiotransferases	tRNA-i(6)A37_methylthiotransferase	0.875	0.03794449262792715
+RNA Metabolism	RNA processing and modification	Methylthiotransferases	tRNA-i(6)A37_methylthiotransferase_(EC_2.8.4.3)	0.625	0.02710320901994796
+RNA Metabolism	RNA processing and modification	Methylthiotransferases	tRNA-t(6)A37_methylthiotransferase	0.3333333333333333	0.014455044810638912
+RNA Metabolism	RNA processing and modification	Q RZ	tRNA-guanine_transglycosylase_(EC_2.4.2.29)	1.833333333333333	0.07950274645851402
+RNA Metabolism	RNA processing and modification	Q RZ	tRNA-guanine_transglycosylase_(EC_2.4.2.29)_#qTRTD1	0.25	0.010841283607979185
+RNA Metabolism	RNA processing and modification	Queuosine exploration RZ	Epoxyqueuosine_(oQ)_reductase_QueG	0.3333333333333333	0.014455044810638912
+RNA Metabolism	RNA processing and modification	Queuosine exploration RZ	NADPH_dependent_preQ0_reductase_(EC_1.7.1.13)	1.5	0.06504770164787511
+RNA Metabolism	RNA processing and modification	Queuosine exploration RZ	Permease_of_the_drug/metabolite_transporter_(DMT)_superfamily	0.9166666666666665	0.03975137322925701
+RNA Metabolism	RNA processing and modification	Queuosine exploration RZ	Queuosine_Biosynthesis_QueC_ATPase	0.2111111111111111	0.009154861713404645
+RNA Metabolism	RNA processing and modification	Queuosine exploration RZ	S-adenosylmethionine:tRNA_ribosyltransferase-isomerase_(EC_5.-.-.-)	0.3333333333333333	0.014455044810638912
+RNA Metabolism	RNA processing and modification	Queuosine exploration RZ	glutamyl-Q-tRNA_synthetase	0.25	0.010841283607979185
+RNA Metabolism	RNA processing and modification	Queuosine exploration RZ	preQ1-regulated_inosine-uridine_nucleoside_hydrolase_(EC_3.2.2.1)	0.5	0.02168256721595837
+RNA Metabolism	RNA processing and modification	Queuosine exploration RZ	tRNA-guanine_transglycosylase_(EC_2.4.2.29)	1.833333333333333	0.07950274645851402
+RNA Metabolism	RNA processing and modification	Queuosine exploration RZ	tRNA-guanine_transglycosylase_(EC_2.4.2.29)_#qTRTD1	0.25	0.010841283607979185
+RNA Metabolism	RNA processing and modification	Queuosine-Archaeosine Biosynthesis	7-cyano-7-deazaguanine_synthase_(EC_6.3.4.20)	0.1111111111111111	0.004818348270212971
+RNA Metabolism	RNA processing and modification	Queuosine-Archaeosine Biosynthesis	Epoxyqueuosine_(oQ)_reductase_QueG	0.3333333333333333	0.014455044810638912
+RNA Metabolism	RNA processing and modification	Queuosine-Archaeosine Biosynthesis	NADPH_dependent_preQ0_reductase_(EC_1.7.1.13)	0.5	0.02168256721595837
+RNA Metabolism	RNA processing and modification	Queuosine-Archaeosine Biosynthesis	Permease_of_the_drug/metabolite_transporter_(DMT)_superfamily	0.25	0.010841283607979185
+RNA Metabolism	RNA processing and modification	Queuosine-Archaeosine Biosynthesis	Queuosine_Biosynthesis_QueC_ATPase	0.2111111111111111	0.009154861713404645
+RNA Metabolism	RNA processing and modification	Queuosine-Archaeosine Biosynthesis	S-adenosylmethionine:tRNA_ribosyltransferase-isomerase_(EC_5.-.-.-)	0.3333333333333333	0.014455044810638912
+RNA Metabolism	RNA processing and modification	Queuosine-Archaeosine Biosynthesis	glutamyl-Q-tRNA_synthetase	0.25	0.010841283607979185
+RNA Metabolism	RNA processing and modification	Queuosine-Archaeosine Biosynthesis	preQ1-regulated_inosine-uridine_nucleoside_hydrolase_(EC_3.2.2.1)	0.5	0.02168256721595837
+RNA Metabolism	RNA processing and modification	Queuosine-Archaeosine Biosynthesis	tRNA-guanine_transglycosylase_(EC_2.4.2.29)	2.25	0.09757155247181266
+RNA Metabolism	RNA processing and modification	RNA 3'-terminal phosphate cyclase	Protein_with_similarity_to_RtcB	0.3333333333333333	0.014455044810638912
+RNA Metabolism	RNA processing and modification	Ribonuclease H	Ribonuclease_HII_(EC_3.1.26.4)	1	0.04336513443191674
+RNA Metabolism	RNA processing and modification	Ribonuclease H	Ribonuclease_HI_(EC_3.1.26.4)	1.5	0.06504770164787511
+RNA Metabolism	RNA processing and modification	Test Q	Epoxyqueuosine_(oQ)_reductase_QueG	0.3333333333333333	0.014455044810638912
+RNA Metabolism	RNA processing and modification	Test Q	Permease_of_the_drug/metabolite_transporter_(DMT)_superfamily	0.9166666666666665	0.03975137322925701
+RNA Metabolism	RNA processing and modification	Test Q	Queuosine_Biosynthesis_QueC_ATPase	0.2111111111111111	0.009154861713404645
+RNA Metabolism	RNA processing and modification	Test Q	S-adenosylmethionine:tRNA_ribosyltransferase-isomerase_(EC_5.-.-.-)	0.3333333333333333	0.014455044810638912
+RNA Metabolism	RNA processing and modification	Test Q	glutamyl-Q-tRNA_synthetase	0.25	0.010841283607979185
+RNA Metabolism	RNA processing and modification	Test Q	preQ1-regulated_inosine-uridine_nucleoside_hydrolase_(EC_3.2.2.1)	0.5	0.02168256721595837
+RNA Metabolism	RNA processing and modification	Test Q	tRNA-guanine_transglycosylase_(EC_2.4.2.29)	1.5833333333333333	0.06866146285053483
+RNA Metabolism	RNA processing and modification	YrdC-YciO	COG0613,_Predicted_metal-dependent_phosphoesterases_(PHP_family)	0.8333333333333333	0.03613761202659728
+RNA Metabolism	RNA processing and modification	YrdC-YciO	FIG00031715:_Predicted_metal-dependent_phosphoesterases_(PHP_family)	0.8333333333333333	0.03613761202659728
+RNA Metabolism	RNA processing and modification	YrdC-YciO	TsaC_protein_(YrdC-Sua5_domains)_required_for_threonylcarbamoyladenosine_t(6)A37_modification_in_tRNA	0.5	0.02168256721595837
+RNA Metabolism	RNA processing and modification	YrdC-YciO-Sua5 and associated protein families	COG0613,_Predicted_metal-dependent_phosphoesterases_(PHP_family)	0.3333333333333333	0.014455044810638912
+RNA Metabolism	RNA processing and modification	rRNA modification bacteria	23S_rRNA_(adenine(2503)-C(2))-methyltransferase_&_tRNA_(adenine(37)-C(2))-methyltransferase_(EC_2.1.1.192)_##_RlmN	1	0.04336513443191674
+RNA Metabolism	RNA processing and modification	rRNA modification bacteria	23S_rRNA_(uracil(1939)-C(5))-methyltransferase_(EC_2.1.1.190)_##_RlmD	0.3333333333333333	0.014455044810638912
+RNA Metabolism	RNA processing and modification	t6A synthesis in bacteria	TsaC_protein_(YrdC-Sua5_domains)_required_for_threonylcarbamoyladenosine_t(6)A37_modification_in_tRNA	0.5	0.02168256721595837
+RNA Metabolism	RNA processing and modification	tRNA modification Archaea	Asparaginyl-tRNA_synthetase_(EC_6.1.1.22)	0.5	0.02168256721595837
+RNA Metabolism	RNA processing and modification	tRNA modification Archaea	COG1180:_Radical_SAM,_Pyruvate-formate_lyase-activating_enzyme_like	1.5	0.06504770164787511
+RNA Metabolism	RNA processing and modification	tRNA mods Archaea	Asparaginyl-tRNA_synthetase_(EC_6.1.1.22)	0.5	0.02168256721595837
+RNA Metabolism	RNA processing and modification	tRNA mods Archaea	COG1180:_Radical_SAM,_Pyruvate-formate_lyase-activating_enzyme_like	1.5	0.06504770164787511
+RNA Metabolism	RNA processing and modification	tRNA mods Archaea	archaeal_ATPase,_fused_to_C-terminal_DUF234_domain	4	0.17346053772766695
+RNA Metabolism	RNA processing and modification	tRNA mods Archaea	tRNA(Cytosine32)-2-thiocytidine_synthetase	1	0.04336513443191674
+RNA Metabolism	RNA processing and modification	tRNA mods Archaea	tRNA-i(6)A37_methylthiotransferase	0.875	0.03794449262792715
+RNA Metabolism	RNA processing and modification	tRNA mods Archaea	tRNA-i(6)A37_methylthiotransferase_(EC_2.8.4.3)	0.875	0.03794449262792715
+RNA Metabolism	RNA processing and modification	tRNA mods Archaea	tRNA_pseudouridine(38-40)_synthase_(EC_5.4.99.12)_##_tRNA_Psi38,_Psi39_and_Psi40	0.5	0.02168256721595837
+RNA Metabolism	RNA processing and modification	tRNA mods Archaea	tRNA_pseudouridine_synthase_A_(EC_4.2.1.70)	0.5	0.02168256721595837
+RNA Metabolism	RNA processing and modification	tRNA processing	Ribonuclease_Z_(EC_3.1.26.11)	1	0.04336513443191674
+RNA Metabolism	RNA processing and modification	tRNA processing	tRNA-i(6)A37_methylthiotransferase	0.625	0.02710320901994796
+RNA Metabolism	RNA processing and modification	tRNA processing	tRNA_dimethylallyltransferase_(EC_2.5.1.75)	1	0.04336513443191674
+RNA Metabolism	Transcription	RNA polymerase bacterial	DNA-directed_RNA_polymerase_beta'_subunit_(EC_2.7.7.6)	8.0	0.3469210754553339
+RNA Metabolism	Transcription	RNA polymerase bacterial	DNA-directed_RNA_polymerase_gamma_subunit_(EC_2.7.7.6)	0.5	0.02168256721595837
+Regulation and Cell signaling	-	Cell envelope-associated LytR-CpsA-Psr transcriptional attenuators	Cell_envelope-associated_transcriptional_attenuator_LytR-CpsA-Psr,_subfamily_F2_(as_in_PMID19099556)	6	0.26019080659150046
+Regulation and Cell signaling	-	DNA-binding regulatory proteins, strays	Xanthosine_operon_regulatory_protein_XapR,_LysR_family	0.5	0.02168256721595837
+Regulation and Cell signaling	-	Iojap	Biotin--protein_ligase_(EC_6.3.4.9)(EC_6.3.4.10)(EC_6.3.4.11)(EC_6.3.4.15)	0.6666666666666666	0.028910089621277824
+Regulation and Cell signaling	-	Iojap	Orotate_phosphoribosyltransferase_(EC_2.4.2.10)	1.5833333333333333	0.06866146285053483
+Regulation and Cell signaling	-	Orphan regulatory proteins	Hybrid_sensory_histidine_kinase_in_two-component_regulatory_system_with_EvgA	1	0.04336513443191674
+Regulation and Cell signaling	-	Orphan regulatory proteins	Putative_two-component_response_regulator_and_GGDEF_family_protein_YeaJ	0.35238095238095235	0.01528104737124685
+Regulation and Cell signaling	-	Sex pheromones in Enterococcus faecalis and other Firmicutes	Oligopeptide_ABC_transporter,_periplasmic_oligopeptide-binding_protein_OppA_(TC_3.A.1.5.1)	2.0	0.08673026886383348
+Regulation and Cell signaling	-	Zinc regulated enzymes	Cysteinyl-tRNA_synthetase_(EC_6.1.1.16)	3.25	0.1409366869037294
+Regulation and Cell signaling	-	Zinc regulated enzymes	Dihydroorotase_(EC_3.5.2.3)	1.0	0.04336513443191674
+Regulation and Cell signaling	-	Zinc regulated enzymes	Putative_metal_chaperone,_involved_in_Zn_homeostasis,_GTPase_of_COG0523_family	2	0.08673026886383348
+Regulation and Cell signaling	Quorum sensing and biofilm formation	Autoinducer 2 (AI-2) transport and processing (lsrACDBFGE operon)	S-ribosylhomocysteine_lyase_(EC_4.4.1.21)_/_Autoinducer-2_production_protein_LuxS	0.4	0.017346053772766695
+Respiration	-	Biogenesis of c-type cytochromes	Aconitate_hydratase_(EC_4.2.1.3)	0.25	0.010841283607979185
+Respiration	-	Biogenesis of c-type cytochromes	Coproporphyrin_ferrochelatase_(EC_4.99.1.-)	1.0	0.04336513443191674
+Respiration	-	Biogenesis of c-type cytochromes	Cyclic_di-GMP_phosphodiesterase_YfgF	1	0.04336513443191674
+Respiration	-	Biogenesis of c-type cytochromes	Cytochrome_c-type_biogenesis_protein_CcdA_(DsbD_analog)_/_Cytochrome_c-type_biogenesis_protein_ResA	0.5833333333333333	0.02529632841861809
+Respiration	-	Biogenesis of c-type cytochromes	Cytochrome_c-type_biogenesis_protein_CcmC,_putative_heme_lyase_for_CcmE	1	0.04336513443191674
+Respiration	-	Biogenesis of c-type cytochromes	Cytochrome_c-type_biogenesis_protein_ResA	1	0.04336513443191674
+Respiration	-	Biogenesis of c-type cytochromes	Ferrochelatase,_protoheme_ferro-lyase_(EC_4.99.1.1)	1.0	0.04336513443191674
+Respiration	-	Biogenesis of c-type cytochromes	Putative_cytochrome_C-type_biogenesis_protein	3	0.13009540329575023
+Respiration	-	Formate hydrogenase	Putative_formate_dehydrogenase_oxidoreductase_protein	1	0.04336513443191674
+Respiration	-	Formate hydrogenase	Pyruvate_formate-lyase_(EC_2.3.1.54)	0.3333333333333333	0.014455044810638912
+Respiration	-	Formate hydrogenase	Pyruvate_formate-lyase_activating_enzyme_(EC_1.97.1.4)	1.5	0.06504770164787511
+Respiration	-	Quinone oxidoreductase family	Hypothetical_zinc-type_alcohol_dehydrogenase-like_protein_YdjJ	1.0	0.04336513443191674
+Respiration	-	Soluble cytochromes and functionally related electron carriers	Epoxyqueuosine_(oQ)_reductase_QueG	1	0.04336513443191674
+Respiration	-	Soluble cytochromes and functionally related electron carriers	Ferredoxin	11.0	0.47701647875108416
+Respiration	-	Soluble cytochromes and functionally related electron carriers	Iron-sulfur_cluster-binding_protein	3	0.13009540329575023
+Respiration	-	Soluble cytochromes and functionally related electron carriers	Predicted_extracellular_microaerobic_reductase,_FeS_cluster_membrane_subunit	1.0	0.04336513443191674
+Respiration	ATP synthases	F0F1-type ATP synthase	ATP_synthase_F0_sector_subunit_a	0.5	0.02168256721595837
+Respiration	ATP synthases	F0F1-type ATP synthase	ATP_synthase_F0_sector_subunit_a_(EC_3.6.3.14)	4.5	0.19514310494362533
+Respiration	Electron accepting reactions	Anaerobic respiratory reductases	Adenylylsulfate_reductase_beta-subunit_(EC_1.8.99.2)	0.3333333333333333	0.014455044810638912
+Respiration	Electron accepting reactions	Anaerobic respiratory reductases	Anaerobic_sulfite_reductase_subunit_A	1.0	0.04336513443191674
+Respiration	Electron accepting reactions	Anaerobic respiratory reductases	Arsenate_reductase_(EC_1.20.4.1)	2.5	0.10841283607979184
+Respiration	Electron accepting reactions	Anaerobic respiratory reductases	heterodisulfide_reductase,_iron-sulfur_binding_subunit,_putative	3	0.13009540329575023
+Respiration	Electron accepting reactions	Respiration / HGM	Adenylylsulfate_reductase_beta-subunit_(EC_1.8.99.2)	0.3333333333333333	0.014455044810638912
+Respiration	Electron accepting reactions	Respiration / HGM	Cytochrome_c-type_heme_lyase_subunit_nrfE,_nitrite_reductase_complex_assembly	0.5	0.02168256721595837
+Respiration	Electron accepting reactions	Respiration / HGM	Cytochrome_c_nitrite_reductase,_small_subunit_NrfH	0.3333333333333333	0.014455044810638912
+Respiration	Electron accepting reactions	Respiration / HGM	Molybdopterin-containing_protein_YdhV,_similar_to_aldehyde:ferredoxin_oxidoreductase	0.25	0.010841283607979185
+Respiration	Electron accepting reactions	Respiration / HGM	Nitric-oxide_reductase_(EC_1.7.99.7),_quinol-dependent	0.75	0.03252385082393756
+Respiration	Electron accepting reactions	Respiration / HGM	Nitrite_reductase_[NAD(P)H]_small_subunit_(EC_1.7.1.4)	0.8333333333333333	0.03613761202659728
+Respiration	Electron accepting reactions	Respiration / HGM	Predicted_extracellular_microaerobic_reductase,_FeS_cluster_membrane_subunit	1.0	0.04336513443191674
+Respiration	Electron accepting reactions	Respiration / HGM	Respiratory_nitrate_reductase_alpha_chain_(EC_1.7.99.4)	0.3333333333333333	0.014455044810638912
+Respiration	Electron accepting reactions	Respiration / HGM	Respiratory_nitrate_reductase_beta_chain_(EC_1.7.99.4)	3.0	0.13009540329575023
+Respiration	Electron accepting reactions	Respiration / HGM	Succinate_dehydrogenase_cytochrome_b_subunit	0.3333333333333333	0.014455044810638912
+Respiration	Electron accepting reactions	Respiration / HGM	Succinate_dehydrogenase_flavoprotein_subunit_(EC_1.3.99.1)	1.0	0.04336513443191674
+Respiration	Electron accepting reactions	Respiration / HGM	Succinate_dehydrogenase_iron-sulfur_protein_(EC_1.3.99.1)	2.111111111111111	0.09154861713404644
+Respiration	Electron accepting reactions	Respiration / HGM	Trimethylamine-N-oxide_reductase_(EC_1.6.6.9),_TorA	0.3333333333333333	0.014455044810638912
+Respiration	Electron accepting reactions	Respiration / HGM	Uncharacterized_molybdopterin-containing_oxidoreductase_YdhV	0.25	0.010841283607979185
+Respiration	Electron accepting reactions	Respiration / Human gut microbiome	Adenylylsulfate_reductase_beta-subunit_(EC_1.8.99.2)	0.3333333333333333	0.014455044810638912
+Respiration	Electron accepting reactions	Respiration / Human gut microbiome	Cytochrome_c-type_heme_lyase_subunit_nrfE,_nitrite_reductase_complex_assembly	0.5	0.02168256721595837
+Respiration	Electron accepting reactions	Respiration / Human gut microbiome	Cytochrome_c_nitrite_reductase,_small_subunit_NrfH	0.3333333333333333	0.014455044810638912
+Respiration	Electron accepting reactions	Respiration / Human gut microbiome	Molybdopterin-containing_protein_YdhV,_similar_to_aldehyde:ferredoxin_oxidoreductase	0.25	0.010841283607979185
+Respiration	Electron accepting reactions	Respiration / Human gut microbiome	Nitric-oxide_reductase_(EC_1.7.99.7),_quinol-dependent	0.75	0.03252385082393756
+Respiration	Electron accepting reactions	Respiration / Human gut microbiome	Nitrite_reductase_[NAD(P)H]_small_subunit_(EC_1.7.1.4)	0.8333333333333333	0.03613761202659728
+Respiration	Electron accepting reactions	Respiration / Human gut microbiome	Predicted_extracellular_microaerobic_reductase,_FeS_cluster_membrane_subunit	1.0	0.04336513443191674
+Respiration	Electron accepting reactions	Respiration / Human gut microbiome	Respiratory_nitrate_reductase_alpha_chain_(EC_1.7.99.4)	0.3333333333333333	0.014455044810638912
+Respiration	Electron accepting reactions	Respiration / Human gut microbiome	Respiratory_nitrate_reductase_beta_chain_(EC_1.7.99.4)	3.0	0.13009540329575023
+Respiration	Electron accepting reactions	Respiration / Human gut microbiome	Succinate_dehydrogenase_cytochrome_b_subunit	0.3333333333333333	0.014455044810638912
+Respiration	Electron accepting reactions	Respiration / Human gut microbiome	Succinate_dehydrogenase_flavoprotein_subunit_(EC_1.3.99.1)	1.0	0.04336513443191674
+Respiration	Electron accepting reactions	Respiration / Human gut microbiome	Succinate_dehydrogenase_iron-sulfur_protein_(EC_1.3.99.1)	2.111111111111111	0.09154861713404644
+Respiration	Electron accepting reactions	Respiration / Human gut microbiome	Uncharacterized_molybdopterin-containing_oxidoreductase_YdhV	0.25	0.010841283607979185
+Respiration	Electron accepting reactions	Terminal cytochrome O ubiquinol oxidase	Cytochrome_O_ubiquinol_oxidase_subunit_I_(EC_1.10.3.-)	1	0.04336513443191674
+Respiration	Electron accepting reactions	Terminal cytochrome d ubiquinol oxidases	Transport_ATP-binding_protein_CydCD	0.25	0.010841283607979185
+Respiration	Electron accepting reactions	Terminal cytochrome d ubiquinol oxidases	Transport_ATP-binding_protein_CydD	0.25	0.010841283607979185
+Respiration	Electron accepting reactions	Terminal cytochrome oxidases	Transport_ATP-binding_protein_CydCD	0.25	0.010841283607979185
+Respiration	Electron accepting reactions	Terminal cytochrome oxidases	Transport_ATP-binding_protein_CydD	0.25	0.010841283607979185
+Respiration	Electron accepting reactions	trimethylamine N-oxide (TMAO) reductase	Trimethylamine-N-oxide_reductase_(EC_1.6.6.9)	0.3333333333333333	0.014455044810638912
+Respiration	Electron accepting reactions	trimethylamine N-oxide (TMAO) reductase	Trimethylamine-N-oxide_reductase_(EC_1.6.6.9),_TorA	0.3333333333333333	0.014455044810638912
+Respiration	Electron donating reactions	Formate dehydrogenase	Formate_dehydrogenase_H_(EC_1.2.1.2)_@_selenocysteine-containing	0.5	0.02168256721595837
+Respiration	Electron donating reactions	Hydrogenases	Periplasmic_[FeFe]_hydrogenase_large_subunit_(EC_1.12.7.2)	5.0	0.21682567215958368
+Respiration	Electron donating reactions	Hydrogenases	Periplasmic_[Fe]_hydrogenase_large_subunit_(EC_1.12.7.2)	5.0	0.21682567215958368
+Respiration	Electron donating reactions	Hydrogenases	Uptake_hydrogenase_large_subunit_(EC_1.12.99.6)	5	0.21682567215958368
+Respiration	Electron donating reactions	Hydrogenases	Uptake_hydrogenase_small_subunit_precursor_(EC_1.12.99.6)	12	0.5203816131830009
+Respiration	Electron donating reactions	NiFe hydrogenase maturation	[NiFe]_hydrogenase_metallocenter_assembly_protein_HypD	3	0.13009540329575023
+Respiration	Electron donating reactions	NiFe hydrogenase maturation	[NiFe]_hydrogenase_metallocenter_assembly_protein_HypF	4	0.17346053772766695
+Respiration	Electron donating reactions	NiFe hydrogenase maturation	[NiFe]_hydrogenase_nickel_incorporation_protein_HypA	1	0.04336513443191674
+Respiration	Electron donating reactions	Respiratory Complex I	NADH-ubiquinone_oxidoreductase_chain_B_(EC_1.6.5.3)	1	0.04336513443191674
+Respiration	Electron donating reactions	Respiratory Complex I	NADH-ubiquinone_oxidoreductase_chain_C_(EC_1.6.5.3)_/_NADH-ubiquinone_oxidoreductase_chain_D_(EC_1.6.5.3)	1	0.04336513443191674
+Respiration	Electron donating reactions	Respiratory Complex I	NADH-ubiquinone_oxidoreductase_chain_G_(EC_1.6.5.3)	1	0.04336513443191674
+Respiration	Electron donating reactions	Respiratory dehydrogenases 1	Glycerol-3-phosphate_dehydrogenase_(EC_1.1.5.3)	1.0	0.04336513443191674
+Respiration	Electron donating reactions	Succinate dehydrogenase	Fumarate_reductase_flavoprotein_subunit_(EC_1.3.5.4)	0.5	0.02168256721595837
+Respiration	Electron donating reactions	Succinate dehydrogenase	Succinate_dehydrogenase_cytochrome_b_subunit	0.3333333333333333	0.014455044810638912
+Respiration	Electron donating reactions	Succinate dehydrogenase	Succinate_dehydrogenase_flavoprotein_subunit_(EC_1.3.99.1)	2.5	0.10841283607979184
+Respiration	Electron donating reactions	Succinate dehydrogenase	Succinate_dehydrogenase_iron-sulfur_protein_(EC_1.3.5.1)	0.5	0.02168256721595837
+Respiration	Electron donating reactions	Succinate dehydrogenase	Succinate_dehydrogenase_iron-sulfur_protein_(EC_1.3.99.1)	2.6111111111111116	0.11323118435000484
+Secondary Metabolism	Biologically active compounds in metazoan cell defence and differentiation	Steroid sulfates	Arylsulfatase_(EC_3.1.6.1)	0.3333333333333333	0.014455044810638912
+Stress Response	-	Carbon Starvation	Carbon_starvation_protein_A	13	0.5637467476149176
+Stress Response	-	FOL Commensurate regulon activation	RND_efflux_system,_inner_membrane_transporter_CmeB	0.35238095238095235	0.01528104737124685
+Stress Response	-	Flavohaemoglobin	Anaerobic_sulfite_reductase_subunit_A	1.0	0.04336513443191674
+Stress Response	-	Flavohaemoglobin	Nitric-oxide_reductase_(EC_1.7.99.7),_quinol-dependent	0.75	0.03252385082393756
+Stress Response	-	Flavohaemoglobin	Vitamin_B12_ABC_transporter,_ATPase_component_BtuD	3	0.13009540329575023
+Stress Response	Dessication stress	O-antigen capsule important for environmental persistence	Alpha-glucosyltransferase_YihQ	1.5	0.06504770164787511
+Stress Response	Dessication stress	O-antigen capsule important for environmental persistence	Outer_membrane_sugar_transport_protein_YshA	1	0.04336513443191674
+Stress Response	Dessication stress	O-antigen capsule important for environmental persistence	Sulpholipid_alpha-glucosidase_(proposed)	0.5	0.02168256721595837
+Stress Response	Detoxification	Housecleaning nucleoside triphosphate pyrophosphatases	5'-nucleotidase_SurE_(EC_3.1.3.5)	0.3333333333333333	0.014455044810638912
+Stress Response	Detoxification	Housecleaning nucleoside triphosphate pyrophosphatases	5-nucleotidase_SurE_(EC_3.1.3.5)	0.3333333333333333	0.014455044810638912
+Stress Response	Detoxification	Nudix KE	Mutator_mutT_protein_(7,8-dihydro-8-oxoguanine-triphosphatase)_(EC_3.6.1.-)	0.3333333333333333	0.014455044810638912
+Stress Response	Detoxification	Nudix KE	NADH_pyrophosphatase_(EC_3.6.1.22)	1.0	0.04336513443191674
+Stress Response	Detoxification	Nudix proteins (nucleoside triphosphate hydrolases)	Mutator_mutT_protein_(7,8-dihydro-8-oxoguanine-triphosphatase)_(EC_3.6.1.-)	0.3333333333333333	0.014455044810638912
+Stress Response	Detoxification	Nudix proteins (nucleoside triphosphate hydrolases)	NADH_pyrophosphatase_(EC_3.6.1.22)	1.0	0.04336513443191674
+Stress Response	Heat shock	At5g63290	Chaperone_protein_DnaJ	1.0	0.04336513443191674
+Stress Response	Heat shock	At5g63290	DNA_repair_protein_RadA	2.6666666666666665	0.1156403584851113
+Stress Response	Heat shock	At5g63290	Hypothetical_radical_SAM_family_enzyme,_NOT_coproporphyrinogen_III_oxidase,_oxygen-independent	3.0	0.13009540329575023
+Stress Response	Heat shock	Heat shock dnaK gene cluster extended	Chaperone_protein_DnaJ	1.0	0.04336513443191674
+Stress Response	Heat shock	Heat shock dnaK gene cluster extended	DNA_polymerase_III_delta_prime_subunit_(EC_2.7.7.7)	1.0	0.04336513443191674
+Stress Response	Heat shock	Heat shock dnaK gene cluster extended	DNA_replication_intiation_control_protein_YabA	6	0.26019080659150046
+Stress Response	Heat shock	Heat shock dnaK gene cluster extended	Hypothetical_radical_SAM_family_enzyme,_NOT_coproporphyrinogen_III_oxidase,_oxygen-independent	3.0	0.13009540329575023
+Stress Response	Heat shock	Heat shock dnaK gene cluster extended	Hypothetical_radical_SAM_family_enzyme_in_heat_shock_gene_cluster,_similarity_with_CPO_of_BS_HemN-type	1	0.04336513443191674
+Stress Response	Heat shock	Heat shock dnaK gene cluster extended	tRNA-t(6)A37_methylthiotransferase	0.3333333333333333	0.014455044810638912
+Stress Response	Osmotic stress	Choline and Betaine Uptake and Betaine Biosynthesis	Choline-sulfatase_(EC_3.1.6.6)	10	0.43365134431916735
+Stress Response	Osmotic stress	Choline and Betaine Uptake and Betaine Biosynthesis	Choline_binding_protein_A	4	0.17346053772766695
+Stress Response	Osmotic stress	Choline and Betaine Uptake and Betaine Biosynthesis	Choline_dehydrogenase_(EC_1.1.99.1)	1	0.04336513443191674
+Stress Response	Osmotic stress	Choline and Betaine Uptake and Betaine Biosynthesis	Glycine_betaine_ABC_transport_system,_glycine_betaine-binding_protein_OpuAC	1	0.04336513443191674
+Stress Response	Osmotic stress	Osmoregulation	Glycerol_uptake_facilitator_protein	0.5	0.02168256721595837
+Stress Response	Osmotic stress	Synthesis of osmoregulated periplasmic glucans	Cyclic_beta-1,2-glucan_synthase_(EC_2.4.1.-)	1	0.04336513443191674
+Stress Response	Osmotic stress	Synthesis of osmoregulated periplasmic glucans	Glucans_biosynthesis_protein_D_precursor	1	0.04336513443191674
+Stress Response	Oxidative stress	Glutaredoxins	Competence_protein_F_homolog,_phosphoribosyltransferase_domain;_protein_YhgH_required_for_utilization_of_DNA_as_sole_source_of_carbon_and_energy	2	0.08673026886383348
+Stress Response	Oxidative stress	Glutathione: Biosynthesis and gamma-glutamyl cycle	Membrane_alanine_aminopeptidase_N_(EC_3.4.11.2)	2.5	0.10841283607979184
+Stress Response	Oxidative stress	Glutathione: Biosynthesis and gamma-glutamyl cycle	Tripeptide_aminopeptidase_(EC_3.4.11.4)	1	0.04336513443191674
+Stress Response	Oxidative stress	Glutathione: Non-redox reactions	Lactoylglutathione_lyase_(EC_4.4.1.5)	0.5	0.02168256721595837
+Stress Response	Oxidative stress	Glutathione: Non-redox reactions	Probable_glutathione_S-transferase_(EC_2.5.1.18),_YfcG_homolog	1	0.04336513443191674
+Stress Response	Oxidative stress	Glutathionylspermidine and Trypanothione	Putative_acid--amine_ligase_YgiC	0.25	0.010841283607979185
+Stress Response	Oxidative stress	Glutathionylspermidine and Trypanothione	Similarity_with_glutathionylspermidine_synthase_(EC_6.3.1.8),_group_1	1.25	0.05420641803989592
+Stress Response	Oxidative stress	Oxidative stress	Catalase-peroxidase_KatG_(EC_1.11.1.21)	0.5	0.02168256721595837
+Stress Response	Oxidative stress	Oxidative stress	Catalase_(EC_1.11.1.6)	1.4	0.060711188204683436
+Stress Response	Oxidative stress	Oxidative stress	Catalase_(EC_1.11.1.6)_/_Peroxidase_(EC_1.11.1.7)	0.5	0.02168256721595837
+Stress Response	Oxidative stress	Oxidative stress	Catalase_KatE_(EC_1.11.1.6)	1.4	0.060711188204683436
+Stress Response	Oxidative stress	Oxidative stress	Peroxide_stress_regulator_PerR,_FUR_family	2.0	0.08673026886383348
+Stress Response	Oxidative stress	Oxidative stress	Reverse_rubrerythrin	0.25	0.010841283607979185
+Stress Response	Oxidative stress	Oxidative stress	Rubrerythrin	3.75	0.16261925411968778
+Stress Response	Oxidative stress	Oxidative stress	Superoxide_dismutase_[Fe]_(EC_1.15.1.1)	1	0.04336513443191674
+Stress Response	Oxidative stress	Oxidative stress	Zinc_uptake_regulation_protein_ZUR	5	0.21682567215958368
+Stress Response	Oxidative stress	Oxygen stress response / Human gut microbiome	Alkyl_hydroperoxide_reductase_protein_F_(EC_1.6.4.-)	0.5	0.02168256721595837
+Stress Response	Oxidative stress	Oxygen stress response / Human gut microbiome	Catalase_(EC_1.11.1.6)	1.4	0.060711188204683436
+Stress Response	Oxidative stress	Oxygen stress response / Human gut microbiome	Thioredoxin	13.5	0.5854293148308759
+Stress Response	Oxidative stress	Protection from Reactive Oxygen Species	Catalase_(EC_1.11.1.6)	1.4	0.060711188204683436
+Stress Response	Oxidative stress	Protection from Reactive Oxygen Species	Catalase_KatE_(EC_1.11.1.6)	1.4	0.060711188204683436
+Stress Response	Oxidative stress	Redox-dependent regulation of nucleus processes	NAD-dependent_protein_deacetylase_of_SIR2_family	1.5	0.06504770164787511
+Stress Response	Oxidative stress	Redox-dependent regulation of nucleus processes	Nicotinamidase_(EC_3.5.1.19)	1.3333333333333333	0.05782017924255565
+Stress Response	Oxidative stress	Rubrerythrin	Reverse_rubrerythrin	0.25	0.010841283607979185
+Stress Response	Oxidative stress	Rubrerythrin	Rubredoxin	1	0.04336513443191674
+Stress Response	Oxidative stress	Rubrerythrin	Rubrerythrin	4.75	0.2059843885516045
+Stress Response	Periplasmic Stress	Periplasmic Stress Response	Membrane-associated_zinc_metalloprotease	1.0	0.04336513443191674
+Sulfur Metabolism	-	Galactosylceramide and Sulfatide metabolism	Arylsulfatase_(EC_3.1.6.1)	13.333333333333332	0.5782017924255565
+Sulfur Metabolism	-	Galactosylceramide and Sulfatide metabolism	Beta-galactosidase_(EC_3.2.1.23)	57.70000000000008	2.5021682567215993
+Sulfur Metabolism	-	Galactosylceramide and Sulfatide metabolism	Beta-galactosidase_(EC_3.2.1.23)_/_Alpha-L-fucosidase_(EC_3.2.1.51)	1.0	0.04336513443191674
+Sulfur Metabolism	-	Galactosylceramide and Sulfatide metabolism	Beta-galactosidase_3	1	0.04336513443191674
+Sulfur Metabolism	-	Galactosylceramide and Sulfatide metabolism	Beta-galactosidase_large_subunit_(EC_3.2.1.23)	6.0	0.26019080659150046
+Sulfur Metabolism	-	Galactosylceramide and Sulfatide metabolism	Beta-galactosidase_small_subunit_(EC_3.2.1.23)	0.5	0.02168256721595837
+Sulfur Metabolism	-	Galactosylceramide and Sulfatide metabolism	Beta-glucosidase_(EC_3.2.1.21)	0.3333333333333333	0.014455044810638912
+Sulfur Metabolism	-	Galactosylceramide and Sulfatide metabolism	Beta-glucuronidase_(EC:3.2.1.31)	3.2	0.13876843018213356
+Sulfur Metabolism	-	Galactosylceramide and Sulfatide metabolism	Glycoprotein_gp2	1	0.04336513443191674
+Sulfur Metabolism	-	Galactosylceramide and Sulfatide metabolism	Neuraminidase_NanP	4	0.17346053772766695
+Sulfur Metabolism	-	Galactosylceramide and Sulfatide metabolism	Sialidase_(EC_3.2.1.18)	3	0.13009540329575023
+Sulfur Metabolism	-	Sulfur oxidation	Cytochrome_c-type_biogenesis_protein_CcdA_(DsbD_analog)_/_Cytochrome_c-type_biogenesis_protein_ResA	0.25	0.010841283607979185
+Sulfur Metabolism	-	Thioredoxin-disulfide reductase	Alkyl_hydroperoxide_reductase_protein_F_(EC_1.6.4.-)	0.5	0.02168256721595837
+Sulfur Metabolism	Inorganic sulfur assimilation	Inorganic Sulfur Assimilation	3'(2'),5'-bisphosphate_nucleotidase_(EC_3.1.3.7)	1	0.04336513443191674
+Sulfur Metabolism	Inorganic sulfur assimilation	Inorganic Sulfur Assimilation	Ferredoxin	1.0	0.04336513443191674
+Sulfur Metabolism	Organic sulfur assimilation	Alkanesulfonate assimilation	Alpha-ketoglutarate-dependent_taurine_dioxygenase_(EC_1.14.11.17)	0.35238095238095235	0.01528104737124685
+Sulfur Metabolism	Organic sulfur assimilation	Alkanesulfonate assimilation	Arylsulfatase_(EC_3.1.6.1)	0.3333333333333333	0.014455044810638912
+Sulfur Metabolism	Organic sulfur assimilation	Alkanesulfonate assimilation	Putative_arylsulfatase_regulatory_protein	2	0.08673026886383348
+Sulfur Metabolism	Organic sulfur assimilation	At5g37530 (CsdL protein family)	Aspartyl-tRNA_synthetase_(EC_6.1.1.12)	1.0	0.04336513443191674
+Sulfur Metabolism	Organic sulfur assimilation	At5g37530 (CsdL protein family)	Iron-sulfur_cluster_assembly_protein_SufB	0.3333333333333333	0.014455044810638912
+Sulfur Metabolism	Organic sulfur assimilation	At5g37530 (CsdL protein family)	Membrane-bound_lytic_murein_transglycosylase_A_precursor_(EC_3.2.1.-)	1	0.04336513443191674
+Sulfur Metabolism	Organic sulfur assimilation	At5g37530 (CsdL protein family)	tRNA-specific_2-thiouridylase_MnmA	1.5	0.06504770164787511
+Sulfur Metabolism	Organic sulfur assimilation	Taurine Utilization	Alpha-ketoglutarate-dependent_taurine_dioxygenase_(EC_1.14.11.17)	1.3523809523809525	0.0586461818031636
+Transcriptional regulation	-	CarD	DNA_repair_protein_RadA	3.166666666666667	0.1373229257010697
+Virulence	-	Mycobacterium virulence operon involved in DNA transcription	DNA-directed_RNA_polymerase_beta'_subunit_(EC_2.7.7.6)	14.5	0.6287944492627927
+Virulence	-	Mycobacterium virulence operon involved in an unknown function with a Jag Protein and YidC and YidD	Inner_membrane_protein_translocase_component_YidC,_short_form_OxaI-like	1.3333333333333333	0.05782017924255565
+Virulence	-	Mycobacterium virulence operon involved in an unknown function with a Jag Protein and YidC and YidD	Protein_YidD	2.5	0.10841283607979184
+Virulence	Resistance to antibiotics and toxic compounds	Arsenic resistance	Arsenate_reductase_(EC_1.20.4.1)	0.5	0.02168256721595837
+Virulence	Resistance to antibiotics and toxic compounds	Beta-lactamase	Beta-lactamase	1	0.04336513443191674
+Virulence	Resistance to antibiotics and toxic compounds	Beta-lactamase	Beta-lactamase_(EC_3.5.2.6)	2	0.08673026886383348
+Virulence	Resistance to antibiotics and toxic compounds	Beta-lactamase	Beta-lactamase_class_C_and_other_penicillin_binding_proteins	5.5	0.23850823937554208
+Virulence	Resistance to antibiotics and toxic compounds	Cobalt-zinc-cadmium resistance	Permease_of_the_drug/metabolite_transporter_(DMT)_superfamily	0.9166666666666665	0.03975137322925701
+Virulence	Resistance to antibiotics and toxic compounds	Cobalt-zinc-cadmium resistance	Zinc_transporter_ZitB	1	0.04336513443191674
+Virulence	Resistance to antibiotics and toxic compounds	Monika MRSA	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine_ligase_(EC_6.3.2.7)	1.0	0.04336513443191674
+Virulence	Resistance to antibiotics and toxic compounds	Multidrug Resistance Efflux Pumps	Acriflavin_resistance_protein	1	0.04336513443191674
+Virulence	Resistance to antibiotics and toxic compounds	Multidrug Resistance Efflux Pumps	Multi_antimicrobial_extrusion_protein_(Na(+)/drug_antiporter),_MATE_family_of_MDR_efflux_pumps	0.5	0.02168256721595837
+Virulence	Resistance to antibiotics and toxic compounds	Multidrug Resistance Efflux Pumps	Multidrug-efflux_transporter,_major_facilitator_superfamily_(MFS)_(TC_2.A.1)	1	0.04336513443191674
+Virulence	Resistance to antibiotics and toxic compounds	Multidrug Resistance Efflux Pumps	RND_efflux_system,_inner_membrane_transporter_CmeB	0.35238095238095235	0.01528104737124685
+Virulence	Resistance to antibiotics and toxic compounds	Multidrug Resistance, Tripartite Systems Found in Gram Negative Bacteria	Inner_membrane_component_of_tripartite_multidrug_resistance_system	0.5	0.02168256721595837
+Virulence	Resistance to antibiotics and toxic compounds	Multidrug Resistance, Tripartite Systems Found in Gram Negative Bacteria	Membrane_fusion_component_of_tripartite_multidrug_resistance_system	0.35238095238095235	0.01528104737124685
+Virulence	Resistance to antibiotics and toxic compounds	Multidrug Resistance, Tripartite Systems Found in Gram Negative Bacteria	Multidrug_efflux_system_EmrKY-TolC,_inner-membrane_proton/drug_antiporter_EmrY_(MFS_type)	0.5	0.02168256721595837
+Virulence	Resistance to antibiotics and toxic compounds	Resistance to fluoroquinolones	Efflux_pump_Lde	1	0.04336513443191674
+Virulence, Disease and Defense	Adhesion	Type 1 pili (mannose-sensitive fimbriae)	mannose-specific_adhesin_FimH	3	0.13009540329575023
+Virulence, Disease and Defense	Adhesion	Type 1 pili (mannose-sensitive fimbriae)	type_1_fimbriae_anchoring_protein_FimD	0.35238095238095235	0.01528104737124685
+Virulence, Disease and Defense	Bacteriocins, ribosomally synthesized antibacterial peptides	Colicin V and Bacteriocin Production Cluster	Amidophosphoribosyltransferase_(EC_2.4.2.14)	0.5	0.02168256721595837
